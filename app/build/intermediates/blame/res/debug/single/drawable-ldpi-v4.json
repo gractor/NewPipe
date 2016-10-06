@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/common_ic_googleplayservices.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/drawable-ldpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/nnf_ic_folder_black_48dp.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/res/drawable-ldpi-v4/nnf_ic_folder_black_48dp.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/nnf_ic_save_black_24dp.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/res/drawable-ldpi-v4/nnf_ic_save_black_24dp.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/nnf_ic_create_new_folder_white_24dp.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/res/drawable-ldpi-v4/nnf_ic_create_new_folder_white_24dp.png"
+    }
+]

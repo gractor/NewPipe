@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/not_available_monkey.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/not_available_monkey.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/thumbs_down.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/thumbs_down.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/buddy.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/buddy.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/arrow_up.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_screen_rotation_white.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_screen_rotation_white.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/dummy_thumbnail_dark.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/dummy_thumbnail_dark.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/gruese_die_gema.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/gruese_die_gema.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_file_download_black.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_file_download_black.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/thumbs_up.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/thumbs_up.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_cast_black.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_cast_black.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/dummy_thumbnail.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/dummy_thumbnail.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/arrow_down.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_share_black.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_share_black.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_headset_black.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_headset_black.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_play_arrow_black.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/drawable-nodpi/ic_play_arrow_black.png"
+    }
+]

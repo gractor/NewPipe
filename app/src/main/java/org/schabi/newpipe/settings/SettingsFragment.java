@@ -4,10 +4,10 @@ import android.app.Activity;
 import android.content.ClipData;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
-import android.preference.CheckBoxPreference;
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceFragment;
@@ -65,6 +65,9 @@ public class SettingsFragment  extends PreferenceFragment
     private Preference downloadPathAudioPreference;
     private SharedPreferences defaultPreferences;
 
+    private Preference versionPreference;
+
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -92,6 +95,15 @@ public class SettingsFragment  extends PreferenceFragment
                 (ListPreference) findPreference(SEARCH_LANGUAGE_PREFERENCE);
         downloadPathPreference = findPreference(DOWNLOAD_PATH_PREFERENCE);
         downloadPathAudioPreference = findPreference(DOWNLOAD_PATH_AUDIO_PREFERENCE);
+
+        String versionName = "";
+        try {
+            versionName = activity.getPackageManager().getPackageInfo(activity.getPackageName(), 0).versionName;
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
+        versionPreference = findPreference("version");
+        versionPreference.setSummary(versionName);
 
         prefListener = new SharedPreferences.OnSharedPreferenceChangeListener() {
             @Override
@@ -160,6 +172,8 @@ public class SettingsFragment  extends PreferenceFragment
             {
                 activity.startActivityForResult(i, R.string.download_path_audio_key);
             }
+        } else if (preference.getKey().equals("license")){
+
         }
 
         return super.onPreferenceTreeClick(preferenceScreen, preference);

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="autoplay_through_intent_summary">Bideoa automatikoki hasten du beste aplikazio batetik deitu denean.</string>
+    <string name="autoplay_through_intent_title">Intent bidez automatikoki erreproduzitu</string>
+    <string name="background_player_name">NewPipe atzeko planoko erreproduzitzailea</string>
+    <string name="background_player_playing_toast">Atzeko planoan erreproduzitzen</string>
+    <string name="cancel">Utzi</string>
+    <string name="choose_browser">Nabigatzailea aukeratu</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Gaitu"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Gaitu Google Play zerbitzuak"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Instalatu"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu telefonoan."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu tabletan."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Lortu Google Play zerbitzuak"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play zerbitzuen errorea"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> aplikazioak arazoak ditu Google Play zerbitzuekin. Arazoek badiraute, laguntza lortzeko, jarri garatzailearekin harremanetan."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play zerbitzuetan dago oinarrituta, baina zure gailuak ez ditu onartzen. Laguntza lortzeko, jarri fabrikatzailearekin harremanetan."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play zerbitzuak"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Eguneratu"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Eguneratu Google Play zerbitzuak"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play zerbitzuak eguneratzen"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ireki telefonoan"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Hasi saioa"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Hasi saioa Google-n"</string>
+    <string name="default_audio_format_title">Audio formatu lehenetsia</string>
+    <string name="default_resolution_title">Lehenetsitako bereizmena</string>
+    <string name="detail_dislikes_img_view_description">Ez dute gustoko</string>
+    <string name="detail_likes_img_view_description">Gustoko dute</string>
+    <string name="detail_thumbnail_view_description">Bideoaren aurreikuspen argazkitxoa</string>
+    <string name="detail_uploader_thumbnail_view_description">Igotzailearen argazkitxoa</string>
+    <string name="did_you_mean">"Hau esan nahi al zenuen: "</string>
+    <string name="download">Deskargatu</string>
+    <string name="download_dialog_title">Deskargatu</string>
+    <string name="download_path_dialog_title">Sar ezazu deskargatzeko lekua</string>
+    <string name="download_path_summary">Deskargatutako bideoak gordetzeko lekua.</string>
+    <string name="download_path_title">Deskargatzeko kokapena</string>
+    <string name="install">Instalatu</string>
+    <string name="installeKore">Kore instalatu</string>
+    <string name="kore_not_found">Kore aplikazioa ez da aurkitu. Kore beharrezkoa da Kodi multimedia zentroarekin bideoak erreproduzitzeko.</string>
+    <string name="list_thumbnail_view_description">Bideoaren aurreikuspen argazkitxoa</string>
+    <string name="loading">Kargatzen</string>
+    <string name="m4a_description">m4a — kalitate hobea</string>
+    <string name="next_video_title">Hurrengo bideoa</string>
+    <string name="no_player_found">Jario erreproduzitzailerik ez da aurkitu. Agian bat instalatu nahi dezakezu.</string>
+    <string name="open_in_browser">Nabigatzailean ireki</string>
+    <string name="play_audio">Audioa</string>
+    <string name="play_btn_text">Erreproduzitu</string>
+    <string name="play_with_kodi_title">Kodirekin erreproduzitu</string>
+    <string name="screen_rotation">biratzea</string>
+    <string name="search">Bilatu</string>
+    <string name="search_language_title">Edukiaren hizkuntz lehenetsia</string>
+    <string name="search_page">"Orrialdea bilatu: "</string>
+    <string name="settings">Ezarpenak</string>
+    <string name="settings_activity_title">Ezarpenak</string>
+    <string name="settings_category_video_audio_title">Bideoa eta Audioa</string>
+    <string name="share">Partekatu</string>
+    <string name="share_dialog_title">Partekatu honekin</string>
+    <string name="show_next_and_similar_title">Hurrengo bideoa eta antzekoak erakutsi</string>
+    <string name="show_play_with_kodi_summary">Kodi multimedia zentroarekin bideoa erreproduzitzeko aukera erakusten du.</string>
+    <string name="show_play_with_kodi_title">\"Kodirekin erreproduzitu\" aukera erakutsi</string>
+    <string name="similar_videos_btn_text">Antzeko bideoak</string>
+    <string name="upload_date_text">Argitaratze-data: %1$s</string>
+    <string name="url_not_supported_toast">URLa ez da onartzen.</string>
+    <string name="use_external_audio_player_title">Kanpoko audio erreproduzitzailea erabili</string>
+    <string name="use_external_video_player_title">Kanpoko bideo erreproduzitzailea erabili</string>
+    <string name="use_tor_summary">Trafikoa Tor bidez deskargatzea behartzen du pribatutasuna hobetzeko (jario bideoak ez daude oraindik onartuta)</string>
+    <string name="use_tor_title">Tor erabili</string>
+    <string name="view_count_text">%1$s ikustaldi</string>
+    <string name="webm_description">WebM — formatu askea</string>
+</resources>

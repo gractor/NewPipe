@@ -529,14 +529,14 @@ public class ExoPlayerActivity extends Activity {
 
     private static final class KeyCompatibleMediaController extends MediaController {
 
-        private MediaController.MediaPlayerControl playerControl;
+        private MediaPlayerControl playerControl;
 
         public KeyCompatibleMediaController(Context context) {
             super(context);
         }
 
         @Override
-        public void setMediaPlayer(MediaController.MediaPlayerControl playerControl) {
+        public void setMediaPlayer(MediaPlayerControl playerControl) {
             super.setMediaPlayer(playerControl);
             this.playerControl = playerControl;
         }

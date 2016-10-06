@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="downloadOptions">
+        <item>Videó</item>
+        <item>Hang</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string name="add">Új küldetés</string>
+    <string name="audio">Audio</string>
+    <string name="autoplay_by_calling_app_summary">Videók automatikus lejátszása a NewPipe külső indításakor.</string>
+    <string name="autoplay_by_calling_app_title">Automatikus lejátszás külső indítás esetén</string>
+    <string name="autoplay_through_intent_summary">Videó automatikus lejátszása külső alkalmazással való megnyitás esetén.</string>
+    <string name="autoplay_through_intent_title">Automatikus lejátszás Intent-en keresztül</string>
+    <string name="background_player_name">NewPipe Háttérlejátszó</string>
+    <string name="background_player_playing_toast">Lejátszás háttérben</string>
+    <string name="blocked_by_gema">GEMA által blokkolt.</string>
+    <string name="cancel">Mégse</string>
+    <string name="checksum">Ellenőrző összeg</string>
+    <string name="choose_browser">Válasszon böngészőt</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Engedélyezés"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor működik, ha  engedélyezi a Google Play-szolgáltatásokat."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play-szolgáltatások engedélyezése"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Telepítés"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a telefonról."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak a táblagépről."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"A Google Play-szolgáltatások beszerzése"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play-szolgáltatások – hiba"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás problémába ütközött a Google Play szolgáltatásainak használata során. Ha a probléma továbbra is fennáll, vegye fel a kapcsolatot a fejlesztővel."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> használatához olyan Google Play-szolgáltatásokra van szükség, amelyeket eszköze nem támogat. Ha segítségre van szüksége, lépjen kapcsolatba a gyártóval."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play-szolgáltatások"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Frissítés"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás csak akkor fog működni, ha frissíti a Google Play-szolgáltatásokat."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"A Google Play-szolgáltatások frissítése"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"A(z) <ns1:g id="APP_NAME">%1$s</ns1:g> alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek frissítése folyamatban van."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"A Google Play-szolgáltatások frissülnek"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"A Google Play-szolgáltatások új verziójára van szükség. A szolgáltatás hamarosan frissíti önmagát."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Megnyitás a telefonon"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Bejelentkezés"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Bejelentkezés Google-fiókkal"</string>
+    <string name="content">Tartalom</string>
+    <string name="content_not_available">A tartalom nem elérhető.</string>
+    <string name="could_not_get_stream">A stream nem elérhető.</string>
+    <string name="could_not_load_thumbnails">Nem sikerült az összes előnézeti kép betöltése</string>
+    <string name="could_not_setup_download_menu">Nem sikerült a letöltés menü beállítása.</string>
+    <string name="dark_theme_title">Sötét</string>
+    <string name="default_audio_format_title">Alapértelmezett hang formátum</string>
+    <string name="default_resolution_title">Alapértelmezett felbontás</string>
+    <string name="delete">Törlés</string>
+    <string name="detail_dislikes_img_view_description">Nem tetszik</string>
+    <string name="detail_likes_img_view_description">Tetszik</string>
+    <string name="detail_thumbnail_view_description">Előnézeti kép</string>
+    <string name="detail_uploader_thumbnail_view_description">Fetöltő profilképe</string>
+    <string name="did_you_mean">Erre gondolt: %1$s ?</string>
+    <string name="download">Letöltés</string>
+    <string name="download_dialog_title">Letöltés</string>
+    <string name="download_path_audio_dialog_title">Adja meg a hangfájlok letöltési helyét.</string>
+    <string name="download_path_audio_summary">Útvonal a letöltött hangfájlok tárolásához</string>
+    <string name="download_path_audio_title">Hangfájlok letöltési helye</string>
+    <string name="download_path_dialog_title">Adja meg a videófájlok letöltési helyét</string>
+    <string name="download_path_summary">Útvonal a letöltött videók tárolásához.</string>
+    <string name="download_path_title">Videófájlok letöltési helye</string>
+    <string name="downloads">Letöltések</string>
+    <string name="downloads_title">Letöltések</string>
+    <string name="duration_live">élő</string>
+    <string name="enable_background_audio">Háttérben való lejátszás</string>
+    <string name="err_dir_create">Nem lehet létrehozni a letöltési mappát \'%1$s\'</string>
+    <string name="error_details_headline">Részletek:</string>
+    <string name="error_drm_not_supported">Védett tartalom nincs támogatva 18-as API alatt (Android 4.3)</string>
+    <string name="error_drm_unknown">Ismeretlen DRM hiba történt</string>
+    <string name="error_drm_unsupported_scheme">Ez az eszköz nem támogatja a szükséges DRM sémát</string>
+    <string name="error_instantiating_decoder">Dekóder hiba: <ns1:g id="decoder_name">%1$S</ns1:g></string>
+    <string name="error_no_decoder">Ez az eszköz nem rendelkezik dekóderrel a következőhöz: <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">Ez az eszköz nem rendelkezik biztonságos dekóderrel a következőhöz: <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_querying_decoders">Nem lehet lekérdezni az eszköz dekódereit</string>
+    <string name="error_report_button_text">Hibajelentés emailben</string>
+    <string name="error_report_title">Hibabejelentés</string>
+    <string name="error_snackbar_action">JELENTÉS</string>
+    <string name="error_snackbar_message">Sajnos hiba történt.</string>
+    <string name="finish">Ok</string>
+    <string name="general_error">Hiba</string>
+    <string name="info_dir_created">Letöltés mappa létrehozása \'%1$s\'</string>
+    <string name="info_requested_stream_lbl">Kívánt stream:</string>
+    <string name="info_searched_lbl">Keresés:</string>
+    <string name="install">Telepítés</string>
+    <string name="installeKore">Kore telepítése</string>
+    <string name="kore_not_found">A Kore alkalmazás nem található. Feltelepíti a Kore lejátszót?</string>
+    <string name="light_parsing_error">Nem sikerült a weblap teljes betöltése.</string>
+    <string name="light_theme_title">Világos</string>
+    <string name="list_thumbnail_view_description">Előnézeti kép</string>
+    <string name="live_streams_not_supported">Ez egy élö közvetités. Még nem támogatva.</string>
+    <string name="loading">Töltés</string>
+    <string name="logging">Naplózás</string>
+    <string name="logging_normal">Normál</string>
+    <string name="logging_verbose">Terjedelmes</string>
+    <string name="m4a_description">m4a — jobb minőség</string>
+    <string name="main_bg_subtitle">A kezdéshez koppints a keresésre</string>
+    <string name="msg_copied">Vágólapra másolva.</string>
+    <string name="msg_error">Hiba</string>
+    <string name="msg_exists">A file már létezik</string>
+    <string name="msg_fetch_filename">Filenév lekérése</string>
+    <string name="msg_name">Filenév</string>
+    <string name="msg_running">NewPipe letöltés folyamatban</string>
+    <string name="msg_running_detail">Katt a részletekért</string>
+    <string name="msg_server_unsupported">Nem támogatott szerver</string>
+    <string name="msg_threads">Threadek</string>
+    <string name="msg_url">Eredeti URL</string>
+    <string name="msg_url_malform">Hibás URL vagy nincs internet</string>
+    <string name="msg_wait">Kérlek várj...</string>
+    <string name="network_error">Hálózati hiba</string>
+    <string name="next_video_title">Következő videó</string>
+    <string name="no_available_dir">Kérlek válassz egy létező könyvtárat a letöltésekhez.</string>
+    <string name="no_player_found">Nem található megfelelő lejátszó. Feltelepíti a VLC lejátszót?</string>
+    <string name="off">[ki]</string>
+    <string name="open_in_browser">Megnyitás böngészőben</string>
+    <string name="parsing_error">Nem sikerült a weblap betöltése.</string>
+    <string name="pause">Szünet</string>
+    <string name="play_audio">Hang</string>
+    <string name="play_btn_text">Lejátszás</string>
+    <string name="play_with_kodi_title">Lejátszás Kodi-val</string>
+    <string name="report_error">Hibajelentés</string>
+    <string name="retry">Újra</string>
+    <string name="screen_rotation">forgatás</string>
+    <string name="search">Keresés</string>
+    <string name="search_language_title">Tartalom preferált nyelve</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string name="search_page">"Keresőlap: "</string>
+    <string name="settings">Beállítások</string>
+    <string name="settings_activity_title">Beállítások</string>
+    <string name="settings_category_appearance_title">Megjelenés</string>
+    <string name="settings_category_other_title">További beállítások</string>
+    <string name="settings_category_video_audio_title">Videó és audio</string>
+    <string name="settings_title">Beállítások</string>
+    <string name="share">Megosztás</string>
+    <string name="share_dialog_title">Megosztás ezzel</string>
+    <string name="show_age_restricted_content_title">Korhatáros tartalom mutatása</string>
+    <string name="show_next_and_similar_title">Következő hasonló videók mutatása</string>
+    <string name="show_play_with_kodi_summary">Mutat egy opciót a videók Kodi médiaközponttal való lejátszására.</string>
+    <string name="show_play_with_kodi_title">\"Lejátszás Kodi-val\" opció mutatása</string>
+    <string name="similar_videos_btn_text">Hasonló videók</string>
+    <string name="sorry_string">Ennek nem kellett volna megtörténnie.</string>
+    <string name="start">Indít</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">Háttértárhoz való hozzáférés megtagadva</string>
+    <string name="switch_mode">Nézet váltása</string>
+    <string name="text">Szöveg</string>
+    <string name="theme_title">Téma</string>
+    <string name="upload_date_text">Közzétéve: %1$s</string>
+    <string name="url_not_supported_toast">A webcím nem támogatott</string>
+    <string name="useExternalPlayerTitle">Külső lejátszó használata</string>
+    <string name="use_exoplayer_summary">Kísérleti</string>
+    <string name="use_exoplayer_title">ExoPlayer használata</string>
+    <string name="use_external_audio_player_title">Külső hanglejátszó használata</string>
+    <string name="use_external_video_player_title">Külső videólejátszó használata</string>
+    <string name="use_tor_summary">(Kísérleti) Adatforgalom Tor-on keresztüli kényszerítése a biztonság fokozása érdekében (a videó stream-elés még nem támogatott).</string>
+    <string name="use_tor_title">Tor használata</string>
+    <string name="user_report">Felhasználói jelentés</string>
+    <string name="video">Videó</string>
+    <string name="video_is_age_restricted">A video korhatáros. A megtekintéséhez engedélyezze a korhatáros videókat.</string>
+    <string name="view">Megtekintés</string>
+    <string name="view_count_text">%1$s megtekintés</string>
+    <string name="webm_description">WebM — szabad formátum</string>
+    <string name="what_device_headline">Információ:</string>
+    <string name="what_happened_headline">Ez történt:</string>
+    <string name="your_comment">Megjegyzésed (angolul):</string>
+    <string name="youtube_signature_decryption_error">Nem sikerült a video url aláírás azonosítása.</string>
+</resources>

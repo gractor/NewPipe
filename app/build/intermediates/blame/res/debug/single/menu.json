@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/dialog_url.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/dialog_url.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/video_player.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/video_player.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/download_menu.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/download_menu.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/search_menu.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/search_menu.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/menu_channel.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/menu_channel.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/videoitem_two_pannel.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/videoitem_two_pannel.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/frag_mission.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/frag_mission.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/videoitem_list.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/videoitem_list.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/picker_actions.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/res/menu/picker_actions.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/mission.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/mission.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/videoitem_detail.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/videoitem_detail.xml"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/menu/error_menu.xml",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/menu/error_menu.xml"
+    }
+]

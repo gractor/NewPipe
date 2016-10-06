@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 669,
+                        "endColumn": 70,
+                        "endOffset": 735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 60,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 60,
+                        "endOffset": 796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 59,
+                    "endOffset": 242
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 59,
+                        "endOffset": 1164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 247,
+                    "endColumn": 68,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 68,
+                        "endOffset": 664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 75,
+                    "endOffset": 387
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 75,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 392,
+                    "endColumn": 63,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 63,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 67,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 67,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 73,
+                    "endOffset": 593
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 868,
+                        "endColumn": 73,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 598,
+                    "endColumn": 66,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endColumn": 66,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 71,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 71,
+                        "endOffset": 563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endColumn": 71,
+                    "endOffset": 804
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 424,
+                        "endColumn": 71,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 809,
+                    "endColumn": 64,
+                    "endOffset": 869
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 125,
+                        "endColumn": 64,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 874,
+                    "endColumn": 70,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 70,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 67,
+                    "endOffset": 1008
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-sw600dp-land/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 67,
+                        "endOffset": 321
+                    }
+                }
+            }
+        ]
+    }
+]

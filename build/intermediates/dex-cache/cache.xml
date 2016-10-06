@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e125d3059c5ae22eaddb203373e61aff2d08505f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_1f3dc021a5a0fbefd50629d967944709d7c40e80/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_e5f3131d6467d5479cae4b003367cf31c70a15e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_4a334842f6703c7f4f804075a9badf1ce7d4a194.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="804ea66f7e6e7351ca8058f22a4604b0f8ff642d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r1.5.5_c8e01f06b41443e25bf74a3faa34d0acbc4c8645/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_c57325c25204c46a9efcba3128e9a368c5acfbe7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/de.hdodenhof-circleimageview-2.0.0_1e867213cd1323d645ef67d5964bf965fbcdce37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de64974d656ff17109768fadf94f19f9cae34017">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48366ba7a612c54a18ea211eda0445dbb9465275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0409f77b945f816cf83672f1d3ec4cc18505fcc5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_1b59dcc95c44eb2b00167b830c9785a75888b6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_0cbb278e6e83f374b4dbec0eda3f272644c633aa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_49a3aa3b6efe16155f740c760444107e739b2a66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_633c092d467cd2353f8c402eadda7d512ff50ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_0f4461987d17c9fe0c8e6cb1b6fa4ffcf4f0e24a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_94a32cc91f2084d3c0cce59276074ecd03451b57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_f55aaf9aa8b69eea3d4add4f5d0f8787b5d8f58d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_ebb150a2416970dbf6c3d8b76cce790d5faa1a97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_87c177ce8def31bf4e1272ad9a542adb01c5920a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4d6952c6143c8fa6f4de1f9627e2f571a23502c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_0448f3c1ce957335ddfc6b2a06a19e218f3782af/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_a7aae86b32782872b6f74f7bff3ba5e661e7a23f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ba616d353d7a39a958686c1f23a5e4da2152ab10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_311fb09d2c7b738277075673d40855107168679a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_09da1c27fa14bcb41cd51709cc6540de469d4c3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="804ea66f7e6e7351ca8058f22a4604b0f8ff642d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.android.exoplayer-exoplayer-r1.5.5_c8e01f06b41443e25bf74a3faa34d0acbc4c8645.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-iid-9.6.0_3016378df93976f6833d9d89ab76ff456a1665bd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f604578234b3cd14eec270df021d86cecde41395">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nononsenseapps-filepicker-3.0.0_c90a79f794a281943a801c165f82b845247ab489/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_fcea25b0bf55b92fd66ba97f57ed09d2e39a1fa8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f604578234b3cd14eec270df021d86cecde41395">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.nononsenseapps-filepicker-3.0.0_f1aa183b3bd67b0074eb192324049eea0670275d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_5480c6efe4ef267733fff9c49e04e1a55604bfdb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_49a3aa3b6efe16155f740c760444107e739b2a66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_4b8c06a3c27a991f5749acf9ddb69bebce5e5733/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_2b5e274f044402d8cb0bb15d5f907098089bc3dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_1e867213cd1323d645ef67d5964bf965fbcdce37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="47cac2f20f53983304d92c520c9d91fec059ac3d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d30c95f0d26da51061dc3a2e5ddf8dbf1788657b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b02db13c8e9502688c5869325fe203f1d97dd7f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_025bd82c14c685351a25349f78faeafe762a3eff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_ee687a7d4fc10edb108578e34043ae53c890710c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c032d96d0702be9d898a75e0678fc6122edd956">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d041aae870bc974aa8dd6b25615d152ba346ba32/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_633c092d467cd2353f8c402eadda7d512ff50ff0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.5_94a32cc91f2084d3c0cce59276074ecd03451b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_ebb150a2416970dbf6c3d8b76cce790d5faa1a97.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/info.guardianproject.netcipher/netcipher/1.2/40b3d0b37e2d0ea1f25c299ae732cddf1578b730/netcipher-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40b3d0b37e2d0ea1f25c299ae732cddf1578b730">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/netcipher-1.2_dac21577b5412128b6686a9433d88c6245d0e09f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_a7aae86b32782872b6f74f7bff3ba5e661e7a23f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_fd41a3b060bf1881fbc3050d87c936e541547451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_dd1ee0a40abed47a26ecdce16e3f14157f690952/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_deaf0d491fbc2bff4a2784e41825d2b6528e3ac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_8edb4347d3f45eba955b84293f7f28fc7117ddcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_ba616d353d7a39a958686c1f23a5e4da2152ab10.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nirhart-parallaxscroll-1.0_379f4b8f5a4218c46a2d8c3fed3f4c6d73bd0f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d03cbe00a6703cfa62ae868707af59d41aff2140">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/ch.acra-acra-4.9.0_d825c5173f695ac367a3ed373fa7f7adc7dd11b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_4a334842f6703c7f4f804075a9badf1ce7d4a194/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f604578234b3cd14eec270df021d86cecde41395">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.nononsenseapps-filepicker-3.0.0_f1aa183b3bd67b0074eb192324049eea0670275d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="804ea66f7e6e7351ca8058f22a4604b0f8ff642d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.exoplayer-exoplayer-r1.5.5_03f5302d963e8df425246df445cd83d5d449495e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-tasks-9.6.0_fcea25b0bf55b92fd66ba97f57ed09d2e39a1fa8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-2.0.0_69aac5dd827cec7be2bb1c0d12045e616f76a597/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.8.3_53cf8a8122e0ce2ea95e4e7424c56cc6d1ab95ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_7a2b4dcffed858a008d2e774ac4069459007eee9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-9.6.0_2b5e274f044402d8cb0bb15d5f907098089bc3dc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_f8741f346383aac8581af25155911a437748aed1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-impl-9.6.0_fbfacad379c7e1c2ae8a513a9a21b5c0d98999bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7.7/3a9ea863b86126b0ed8f2fe2230412747cd3c254/rhino-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a9ea863b86126b0ed8f2fe2230412747cd3c254">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/rhino-1.7.7_999c6934a02fc7bf1b11e71223796ba9cca96102.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_b3b2c289c65dd04c610d103229fbe999d18e68f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/info.guardianproject.netcipher/netcipher/1.2/40b3d0b37e2d0ea1f25c299ae732cddf1578b730/netcipher-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40b3d0b37e2d0ea1f25c299ae732cddf1578b730">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/netcipher-1.2_dac21577b5412128b6686a9433d88c6245d0e09f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_6f4860f34bcb6757f1e82f4a484d0e461ab47c0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_00077b1fcb8c124592669596c92c0209167d1127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_e79d88a6caa2a9d1602da5a596f07cf51e0d7282/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-9.6.0_ee89bbdedaf02f1543609371eb118ca12f2cf5f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8edb4347d3f45eba955b84293f7f28fc7117ddcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c7a407b3b18f844fb2feecd8aed94bd1a629a697/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.github.nirhart-parallaxscroll-1.0_379f4b8f5a4218c46a2d8c3fed3f4c6d73bd0f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_d7f84152c104d35ddc35bbe5658340f1a9fc7134.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_8d4d8a575f70a5f3c5925e850049f4197cfe831f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/gson-2.4_e685ad3e72944c53fc66b56d7e48d11b5d47eadb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/jsoup-1.8.3_53cf8a8122e0ce2ea95e4e7424c56cc6d1ab95ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d03cbe00a6703cfa62ae868707af59d41aff2140">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/ch.acra-acra-4.9.0_d825c5173f695ac367a3ed373fa7f7adc7dd11b5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_cbb92a005c98913fd222b86afd080cfd7fadb2ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f738915b3b9cc31329a88a319e82d4389a1ada3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_4abe03767ceea1129f4471f5d8880571922b3cfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-common-9.6.0_9ffa5a5095671718b3e63f2c71a3d8bf096fcf8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-config-9.6.0_800cd19a89981710146bc94d98c209716e24d790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_5480c6efe4ef267733fff9c49e04e1a55604bfdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_f0443298fd491be19b6dd02662c12b573cba8b6f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e5f3131d6467d5479cae4b003367cf31c70a15e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-messaging-9.6.0_c57325c25204c46a9efcba3128e9a368c5acfbe7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a52d41ec981be78ff974f6048ff7023e6d25c78c">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6c87e1efc750a4cbb415f06fe1f5cef49c46557/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2574796fab3c6145ca6170821badd305f5e03669">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nirhart-parallaxscroll-1.0_0bf4a4a08dd39ae44bbecf7f1e6e79d67997533c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_991ec30a2a5de4ed7fa081a872b314daed0b88d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/org.mozilla/rhino/1.7.7/3a9ea863b86126b0ed8f2fe2230412747cd3c254/rhino-1.7.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3a9ea863b86126b0ed8f2fe2230412747cd3c254">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rhino-1.7.7_999c6934a02fc7bf1b11e71223796ba9cca96102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_fbfacad379c7e1c2ae8a513a9a21b5c0d98999bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_4c8f8bf4db117c0dd5fca72c602ba870ce2a7561/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d03cbe00a6703cfa62ae868707af59d41aff2140">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/ch.acra-acra-4.9.0_97fd0e8915889101cb59b2d5d6542e6854457cf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-analytics-9.6.0_0f4461987d17c9fe0c8e6cb1b6fa4ffcf4f0e24a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0cbb278e6e83f374b4dbec0eda3f272644c633aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_ee89bbdedaf02f1543609371eb118ca12f2cf5f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.google.firebase-firebase-crash-9.6.0_e79d88a6caa2a9d1602da5a596f07cf51e0d7282.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_b3b2c289c65dd04c610d103229fbe999d18e68f9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_72605b6c4e8b7970ba44ca7d4e16c1784f702c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8d4d8a575f70a5f3c5925e850049f4197cfe831f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f0443298fd491be19b6dd02662c12b573cba8b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_3016378df93976f6833d9d89ab76ff456a1665bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_f738915b3b9cc31329a88a319e82d4389a1ada3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_800cd19a89981710146bc94d98c209716e24d790/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_d7f84152c104d35ddc35bbe5658340f1a9fc7134/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_e685ad3e72944c53fc66b56d7e48d11b5d47eadb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_e6da49b388c3cecbbd5bf36c80a09a8a9df40cc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_9ffa5a5095671718b3e63f2c71a3d8bf096fcf8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_09da1c27fa14bcb41cd51709cc6540de469d4c3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe2/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_4abe03767ceea1129f4471f5d8880571922b3cfa.jar" />
+    </item>
+
+</items>

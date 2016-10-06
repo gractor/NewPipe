@@ -1,0 +1,7 @@
+#Thu Oct 06 10:28:52 KST 2016
+base.0=/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d041aae870bc974aa8dd6b25615d152ba346ba32
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6c87e1efc750a4cbb415f06fe1f5cef49c46557/classes.dex
+base.1=/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6c87e1efc750a4cbb415f06fe1f5cef49c46557
+file.0=/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d041aae870bc974aa8dd6b25615d152ba346ba32/classes.dex

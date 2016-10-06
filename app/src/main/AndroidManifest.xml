@@ -9,31 +9,58 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-        android:name=".App"
+        android:name="org.schabi.newpipe.App"
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/icon"
+        android:logo="@mipmap/icon"
         android:label="@string/app_name"
-        android:logo="@mipmap/ic_launcher"
         android:theme="@style/AppTheme"
         tools:ignore="AllowBackup">
 
         <activity
-            android:name=".MainActivity"
-            android:label="@string/app_name">
+            android:name="com.gractor.bighistory.SplashActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:launchMode="singleTask"
+            android:clearTaskOnLaunch="true"
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <service
+            android:name="com.gractor.bighistory.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <service
+            android:name="com.gractor.bighistory.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
         <activity
-            android:name=".detail.VideoItemDetailActivity"
-            android:label="@string/title_videoitem_detail"
+            android:name="org.schabi.newpipe.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme"
             android:launchMode="singleTask"
+            android:clearTaskOnLaunch="true"
+            >
+        </activity>
+
+        <activity
+            android:name="org.schabi.newpipe.detail.VideoItemDetailActivity"
+            android:label="@string/title_videoitem_detail"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".MainActivity" />
+                android:value="org.schabi.newpipe.MainActivity" />
 
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
@@ -78,18 +105,18 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".player.PlayVideoActivity"
+            android:name="org.schabi.newpipe.player.PlayVideoActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/VideoPlayerTheme"
             tools:ignore="UnusedAttribute" />
 
         <service
-            android:name=".player.BackgroundPlayer"
+            android:name="org.schabi.newpipe.player.BackgroundPlayer"
             android:exported="false"
             android:label="@string/background_player_name" />
 
         <activity
-            android:name=".player.ExoPlayerActivity"
+            android:name="org.schabi.newpipe.player.ExoPlayerActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
             android:label="@string/app_name"
             android:launchMode="singleInstance"
@@ -108,15 +135,15 @@
         </activity>
 
         <service
-            android:name=".player.BackgroundPlayer"
+            android:name="org.schabi.newpipe.player.BackgroundPlayer"
             android:exported="false"
             android:label="@string/background_player_name" />
 
         <activity
-            android:name=".settings.SettingsActivity"
+            android:name="org.schabi.newpipe.settings.SettingsActivity"
             android:label="@string/settings_activity_title" />
         <activity
-            android:name=".PanicResponderActivity"
+            android:name="org.schabi.newpipe.PanicResponderActivity"
             android:launchMode="singleInstance"
             android:noHistory="true"
             android:theme="@android:style/Theme.NoDisplay">
@@ -127,14 +154,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ExitActivity"
+            android:name="org.schabi.newpipe.ExitActivity"
             android:label="@string/general_error"
             android:theme="@android:style/Theme.NoDisplay" />
         <activity android:name=".report.ErrorActivity" />
 
         <!-- giga get related -->
         <activity
-            android:name=".download.DownloadActivity"
+            android:name="org.schabi.newpipe.download.DownloadActivity"
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:theme="@style/AppTheme" />
@@ -149,7 +176,7 @@
         </activity>
 
         <activity
-            android:name=".ChannelActivity"
+            android:name="org.schabi.newpipe.ChannelActivity"
             android:label="@string/title_activity_channel"
             android:theme="@style/AppTheme.NoActionBar" />
 

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="downloadOptions">
+        <item>Видео</item>
+        <item>Аудио</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="action_settings">Настройки</string>
+    <string name="autoplay_through_intent_summary">Автоматически воспроизводить видео, открытое через другое приложение</string>
+    <string name="autoplay_through_intent_title">Автопроигрывание через интернет</string>
+    <string name="background_player_name">Фоновый проигрыватель NewPipe</string>
+    <string name="background_player_playing_toast">Проигрывание в фоновом режиме</string>
+    <string name="cancel">Отмена</string>
+    <string name="checksum">Контрольная сумма</string>
+    <string name="choose_browser">Выбрать браузер</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Включить"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется включить сервисы Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Включите сервисы Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установить"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" требуется установить сервисы Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установите сервисы Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Ошибка сервисов Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", не поддерживаются на вашем устройстве. Обратитесь к производителю."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Сервисы Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Обновить"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Чтобы запустить приложение \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", обновите сервисы Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Обновите сервисы Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Сервисы Google Play, необходимые для работы приложения \"<ns1:g id="APP_NAME">%1$s</ns1:g>\", в настоящий момент обновляются."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Обновление сервисов Google Play…"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Версия сервисов Google Play устарела. Они автоматически обновятся в ближайшее время."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Открыть на телефоне"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Войти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Войти через аккаунт Google"</string>
+    <string name="dark_theme_title">Темная</string>
+    <string name="default_audio_format_title">Формат аудио по-умолчанию</string>
+    <string name="default_resolution_title">Разрешение по-умолчанию</string>
+    <string name="delete">Удалить</string>
+    <string name="detail_dislikes_img_view_description">Дислайки</string>
+    <string name="detail_likes_img_view_description">Лайки</string>
+    <string name="detail_thumbnail_view_description">Миниатюра видео-превью</string>
+    <string name="detail_uploader_thumbnail_view_description">Миниатюра аватара пользователся</string>
+    <string name="did_you_mean">Возможно, вы имели в виду: </string>
+    <string name="download">Скачать</string>
+    <string name="download_dialog_title">Скачать</string>
+    <string name="download_path_audio_dialog_title">Введите путь к папке для загрузки аудио</string>
+    <string name="download_path_audio_summary">Папка для хранения загруженных аудио</string>
+    <string name="download_path_audio_title">Папка для загрузки аудио</string>
+    <string name="download_path_dialog_title">Введите путь к папке для загрузки видео</string>
+    <string name="download_path_summary">Папка для хранения загруженных видео</string>
+    <string name="download_path_title">Место для загрузок</string>
+    <string name="finish">Окей</string>
+    <string name="install">Установить</string>
+    <string name="installeKore">Установить Kore</string>
+    <string name="kore_not_found">Приложение Kore не наидено. Установить Kore?</string>
+    <string name="light_theme_title">Светлая</string>
+    <string name="list_thumbnail_view_description">Миниатюра видео-превью</string>
+    <string name="loading">Загрузка</string>
+    <string name="m4a_description">m4a — лучшее качество</string>
+    <string name="main_bg_subtitle">Нажмите поиск чтобы начать</string>
+    <string name="msg_copied">Копировано в буфер обмена.</string>
+    <string name="msg_error">Ошибка</string>
+    <string name="msg_exists">Файл уже существует</string>
+    <string name="msg_name">Названия файла</string>
+    <string name="msg_running">NewPipe скачивает</string>
+    <string name="msg_running_detail">Нажмите для деталей</string>
+    <string name="msg_server_unsupported">Сервер не поддерживается</string>
+    <string name="msg_threads">Потоки</string>
+    <string name="msg_url">Скачать URL</string>
+    <string name="msg_url_malform">Неправильный URL или Интернет не доступен</string>
+    <string name="msg_wait">Пожалуйста подождите...</string>
+    <string name="network_error">Ошибка сети</string>
+    <string name="next_video_title">Следующее видео</string>
+    <string name="no_available_dir">Пожалуйста выберите папку для скачивания.</string>
+    <string name="no_player_found">Ни одного потокового проигрывателя не было найдено. Установить?</string>
+    <string name="open_in_browser">Открыть в браузере</string>
+    <string name="pause">Пауза</string>
+    <string name="play_audio">Аудио</string>
+    <string name="play_btn_text">Воспроизвести</string>
+    <string name="play_with_kodi_title">Воспроизвести с помощью Kodi</string>
+    <string name="screen_rotation">поворот</string>
+    <string name="search">Найти</string>
+    <string name="search_language_title">Предпочитаемый язык контента</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Поиск"</string>
+    <string name="search_page">Страница поиска: </string>
+    <string name="settings">Настройки</string>
+    <string name="settings_activity_title">Настройки</string>
+    <string name="settings_category_appearance_title">Внешний вид</string>
+    <string name="settings_category_other_title">Другое</string>
+    <string name="settings_category_video_audio_title">Видео и Аудио</string>
+    <string name="share">Поделиться</string>
+    <string name="share_dialog_title">Поделиться с помощью</string>
+    <string name="show_next_and_similar_title">Показывать следующее и предложенные видео</string>
+    <string name="show_play_with_kodi_summary">Показать опцию воспроизведения видео через Kodi media center</string>
+    <string name="show_play_with_kodi_title">Показывать опцию \"Воспроизвести с помощью Kodi\"</string>
+    <string name="similar_videos_btn_text">Похожие видео</string>
+    <string name="start">Начать</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="theme_title">Тема</string>
+    <string name="upload_date_text">Опубликовано %1$s</string>
+    <string name="url_not_supported_toast">URL не поддерживается</string>
+    <string name="useExternalPlayerTitle">Использовать внешний проигрыватель</string>
+    <string name="use_external_audio_player_title">Использовать внешний проигрыватель для аудио</string>
+    <string name="use_external_video_player_title">Использовать внешний проигрыватель для видео</string>
+    <string name="use_tor_title">Использовать Tor</string>
+    <string name="view_count_text">%1$s просмотров</string>
+    <string name="webm_description">WebM — свободный формат</string>
+</resources>

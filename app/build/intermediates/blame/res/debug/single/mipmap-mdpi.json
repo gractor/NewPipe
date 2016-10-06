@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/mipmap-mdpi/icon.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/mipmap-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_public_white_24dp.png",
+        "source": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/mipmap-mdpi/ic_public_white_24dp.png"
+    }
+]

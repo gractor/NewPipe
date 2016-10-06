@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231612581796",
+    "firebase_url": "https://bighistory-cedbe.firebaseio.com",
+    "project_id": "bighistory-cedbe",
+    "storage_bucket": "bighistory-cedbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231612581796:android:05233a1ab5d40409",
+        "android_client_info": {
+          "package_name": "com.gractor.bighistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231612581796-lrc2au4asg69u1d8tp1761j46qu3moir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gractor.bighistory",
+            "certificate_hash": "F80197DF71B071517E0C52FAE5C1C64BB8703C7C"
+          }
+        },
+        {
+          "client_id": "231612581796-4fjcfcp17op105tok668f22r0u48nten.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG1TaS3s4nVk9_6hmapwDdrT1RNZm95cU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231612581796-4fjcfcp17op105tok668f22r0u48nten.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

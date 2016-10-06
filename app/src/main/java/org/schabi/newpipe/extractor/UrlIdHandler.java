@@ -1,7 +1,5 @@
 package org.schabi.newpipe.extractor;
 
-import org.schabi.newpipe.extractor.exceptions.ParsingException;
-
 /**
  * Created by Christian Schabesberger on 26.07.16.
  *

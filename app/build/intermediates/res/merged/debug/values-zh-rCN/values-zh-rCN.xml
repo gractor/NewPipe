@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="action_settings">设置</string>
+    <string name="add">新任务</string>
+    <string name="app_ui_crash">应用/界面已崩溃</string>
+    <string name="audio">音频</string>
+    <string name="autoplay_by_calling_app_summary">NewPipe 是被另一应用调用时自动开始播放视频。</string>
+    <string name="autoplay_by_calling_app_title">另一应用调用时自动播放</string>
+    <string name="autoplay_through_intent_summary">当另一个程式发出要求时自动播放视频。</string>
+    <string name="autoplay_through_intent_title">刻意自动播放</string>
+    <string name="background_player_name">NewPipe 背景播放器</string>
+    <string name="background_player_playing_toast">后台播放</string>
+    <string name="blocked_by_gema">已被 GEMA 屏蔽。</string>
+    <string name="cancel">取消</string>
+    <string name="checksum">校验和</string>
+    <string name="choose_browser">选择浏览器</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"启用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安装"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务。如果问题一直存在，请与开发者联系以寻求帮助。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>必须搭配使用 Google Play 服务才能运行，但您的设备不支持该服务。请与设备制造商联系以寻求帮助。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="content">内容</string>
+    <string name="content_not_available">内容不可用。</string>
+    <string name="could_not_get_stream">无法获取任何流媒体。</string>
+    <string name="could_not_load_image">无法加载图像</string>
+    <string name="could_not_load_thumbnails">无法加载所有缩略图</string>
+    <string name="could_not_setup_download_menu">无法设置下载菜单。</string>
+    <string name="dark_theme_title">暗色系</string>
+    <string name="default_audio_format_title">默认音频格式</string>
+    <string name="default_resolution_title">默认分辨率</string>
+    <string name="delete">删除</string>
+    <string name="detail_dislikes_img_view_description">不喜欢</string>
+    <string name="detail_likes_img_view_description">喜欢</string>
+    <string name="detail_thumbnail_view_description">视频预览缩略图</string>
+    <string name="detail_uploader_thumbnail_view_description">上传者的头像缩图</string>
+    <string name="did_you_mean">您是不是要找：</string>
+    <string name="download">下载</string>
+    <string name="download_dialog_title">下载</string>
+    <string name="download_path_audio_dialog_title">输入音频的下载路径。</string>
+    <string name="download_path_audio_summary">存放已下载音频的路径</string>
+    <string name="download_path_audio_title">音频下载路径</string>
+    <string name="download_path_dialog_title">输入视频的下载路径</string>
+    <string name="download_path_summary">存放已下载视频的路径。</string>
+    <string name="download_path_title">视频下载路径</string>
+    <string name="downloads">下载</string>
+    <string name="downloads_title">下载</string>
+    <string name="duration_live">直播</string>
+    <string name="enable_background_audio">在后台播放</string>
+    <string name="err_dir_create">未能建立下载路径 “%1$s”</string>
+    <string name="error_details_headline">详细信息：</string>
+    <string name="error_drm_not_supported">已保护内容在 API 级别低于 18 时不支持</string>
+    <string name="error_drm_unknown">发生未知 DRM 错误</string>
+    <string name="error_drm_unsupported_scheme">此设备不支持 DRM 模式</string>
+    <string name="error_instantiating_decoder">无法实例化解码器 <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_no_decoder">此设备未提供一个 <ns1:g id="mime_type">%1$s</ns1:g> 的解码器</string>
+    <string name="error_no_secure_decoder">此设备未提供一个 <ns1:g id="mime_type">%1$s</ns1:g> 的安全解码器</string>
+    <string name="error_querying_decoders">无法查询设备解码器</string>
+    <string name="error_report_button_text">使用邮件报告错误</string>
+    <string name="error_report_title">错误报告</string>
+    <string name="error_snackbar_action">报告</string>
+    <string name="error_snackbar_message">抱歉，发生一些错误。</string>
+    <string name="finish">确定</string>
+    <string name="general_error">错误</string>
+    <string name="info_dir_created">已建立下载路径 “%1$s”</string>
+    <string name="info_requested_stream_lbl">已请求流：</string>
+    <string name="info_searched_lbl">搜索：</string>
+    <string name="install">安装</string>
+    <string name="kore_not_found">找不到 Kore 应用程式，您要安装 Kore 吗？</string>
+    <string name="light_parsing_error">无法完全解析网站。</string>
+    <string name="light_theme_title">明亮色系</string>
+    <string name="list_thumbnail_view_description">视频预览缩略图</string>
+    <string name="live_streams_not_supported">这是一个在线流媒体。这尚不支持。</string>
+    <string name="loading">载入中</string>
+    <string name="logging">日志记录</string>
+    <string name="logging_normal">正常</string>
+    <string name="logging_verbose">详细</string>
+    <string name="m4a_description">m4a — 更佳品质</string>
+    <string name="main_bg_subtitle">点按搜索开始使用</string>
+    <string name="msg_copied">已复制到剪贴板。</string>
+    <string name="msg_error">错误</string>
+    <string name="msg_exists">文件已经存在</string>
+    <string name="msg_fetch_filename">获取文件名</string>
+    <string name="msg_name">文件名</string>
+    <string name="msg_running">NewPipe 正在下载</string>
+    <string name="msg_running_detail">点击了解细节</string>
+    <string name="msg_server_unsupported">服务器不支持</string>
+    <string name="msg_threads">线程</string>
+    <string name="msg_url">下载网址</string>
+    <string name="msg_url_malform">网址不正确或网络不可用</string>
+    <string name="msg_wait">请稍候...</string>
+    <string name="network_error">网络错误</string>
+    <string name="next_video_title">即将播放</string>
+    <string name="no_available_dir">请选择一个可用的下载目录。</string>
+    <string name="no_player_found">找不到任何串流播放器。您是否要安装 VLC？</string>
+    <string name="off">[关]</string>
+    <string name="open_in_browser">在浏览器打开</string>
+    <string name="parsing_error">无法解析网站。</string>
+    <string name="pause">暂停</string>
+    <string name="play_audio">音频</string>
+    <string name="play_btn_text">播放</string>
+    <string name="play_with_kodi_title">用 Kodi 播放</string>
+    <string name="report_error">报告错误</string>
+    <string name="retry">重试</string>
+    <string name="screen_rotation">旋转</string>
+    <string name="search">搜索</string>
+    <string name="search_language_title">首选内容语言</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="search_page">"搜索页面： "</string>
+    <string name="settings">设置</string>
+    <string name="settings_activity_title">设置</string>
+    <string name="settings_category_appearance_title">外观</string>
+    <string name="settings_category_other_title">其他</string>
+    <string name="settings_category_video_audio_title">视频和音频</string>
+    <string name="settings_title">设置</string>
+    <string name="share">分享</string>
+    <string name="share_dialog_title">分享视频</string>
+    <string name="show_age_restricted_content_title">显示年龄限制内容</string>
+    <string name="show_next_and_similar_title">显示下一部和相近的视频</string>
+    <string name="show_play_with_kodi_summary">显示以 Kodi 媒体中心播放视频的选项。</string>
+    <string name="show_play_with_kodi_title">显示 “用 Kodi 播放” 的选项</string>
+    <string name="similar_videos_btn_text">相近的视频</string>
+    <string name="sorry_string">抱歉，这不应该发生。</string>
+    <string name="start">开始</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">访问存储的权限被拒绝</string>
+    <string name="switch_mode">切换列表与网格</string>
+    <string name="text">文本</string>
+    <string name="theme_title">主题</string>
+    <string name="upload_date_text">于 %1$s 发布</string>
+    <string name="url_not_supported_toast">不支援此网址</string>
+    <string name="use_exoplayer_summary">实验性</string>
+    <string name="use_exoplayer_title">使用 ExoPlayer</string>
+    <string name="use_external_audio_player_title">使用外置音频播放器</string>
+    <string name="use_external_video_player_title">使用外置视频播放器</string>
+    <string name="use_tor_summary">（实验性）强制下载流量使用 Tor 加强隐私（暂不支援流媒体视频）。</string>
+    <string name="use_tor_title">使用 Tor</string>
+    <string name="user_report">用户报告</string>
+    <string name="video">视频</string>
+    <string name="video_is_age_restricted">视频有年龄限制。请先在设置中启用年龄限制视频。</string>
+    <string name="view">查看</string>
+    <string name="view_count_text">%1$s 次观看</string>
+    <string name="webm_description">WebM — 开放格式</string>
+    <string name="what_device_headline">信息：</string>
+    <string name="what_happened_headline">发生什么：</string>
+    <string name="your_comment">您的注释（英文）：</string>
+    <string name="youtube_signature_decryption_error">无法解密视频网址签名。</string>
+</resources>

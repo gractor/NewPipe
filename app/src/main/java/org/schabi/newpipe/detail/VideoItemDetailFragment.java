@@ -43,18 +43,18 @@ import java.util.Vector;
 
 import org.schabi.newpipe.ActivityCommunicator;
 import org.schabi.newpipe.ChannelActivity;
-import org.schabi.newpipe.extractor.stream_info.StreamInfo;
-import org.schabi.newpipe.extractor.stream_info.StreamPreviewInfo;
+import org.schabi.newpipe.extractor.StreamPreviewInfo;
 import org.schabi.newpipe.info_list.InfoItemBuilder;
 import org.schabi.newpipe.report.ErrorActivity;
 import org.schabi.newpipe.ImageErrorLoadingListener;
 import org.schabi.newpipe.Localization;
 import org.schabi.newpipe.R;
 import org.schabi.newpipe.download.DownloadDialog;
-import org.schabi.newpipe.extractor.stream_info.AudioStream;
+import org.schabi.newpipe.extractor.AudioStream;
 import org.schabi.newpipe.extractor.MediaFormat;
-import org.schabi.newpipe.extractor.NewPipe;
-import org.schabi.newpipe.extractor.stream_info.VideoStream;
+import org.schabi.newpipe.extractor.ServiceList;
+import org.schabi.newpipe.extractor.StreamInfo;
+import org.schabi.newpipe.extractor.VideoStream;
 import org.schabi.newpipe.player.BackgroundPlayer;
 import org.schabi.newpipe.player.PlayVideoActivity;
 import org.schabi.newpipe.player.ExoPlayerActivity;
@@ -156,7 +156,7 @@ public class VideoItemDetailFragment extends Fragment {
             }
 
             textContentLayout.setVisibility(View.VISIBLE);
-            if (android.os.Build.VERSION.SDK_INT < 18) {
+            if (Build.VERSION.SDK_INT < 18) {
                 playVideoButton.setVisibility(View.VISIBLE);
             } else {
                 ImageView playArrowView = (ImageView) activity.findViewById(R.id.play_arrow_view);
@@ -173,7 +173,7 @@ public class VideoItemDetailFragment extends Fragment {
             topView.setOnTouchListener(new View.OnTouchListener() {
                 @Override
                 public boolean onTouch(View v, MotionEvent event) {
-                    if (event.getAction() == android.view.MotionEvent.ACTION_UP) {
+                    if (event.getAction() == MotionEvent.ACTION_UP) {
                         ImageView arrow = (ImageView) activity.findViewById(R.id.toggle_description_view);
                         View extra = activity.findViewById(R.id.detailExtraView);
                         if (extra.getVisibility() == View.VISIBLE) {
@@ -255,7 +255,7 @@ public class VideoItemDetailFragment extends Fragment {
                 playVideo(info);
             }
 
-            if (android.os.Build.VERSION.SDK_INT < 18) {
+            if (Build.VERSION.SDK_INT < 18) {
                 playVideoButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
@@ -306,7 +306,7 @@ public class VideoItemDetailFragment extends Fragment {
                             ErrorActivity.reportError(getActivity(),
                                     failReason.getCause(), null, rootView,
                                     ErrorActivity.ErrorInfo.make(ErrorActivity.LOAD_IMAGE,
-                                            NewPipe.getNameOfService(info.service_id), imageUri,
+                                            ServiceList.getNameOfService(info.service_id), imageUri,
                                             R.string.could_not_load_thumbnails));
                         }
 
@@ -433,7 +433,7 @@ public class VideoItemDetailFragment extends Fragment {
                     Intent intent;
                     AudioStream audioStream =
                             info.audio_streams.get(getPreferredAudioStreamId(info));
-                    if (!useExternalAudioPlayer && android.os.Build.VERSION.SDK_INT >= 18) {
+                    if (!useExternalAudioPlayer && Build.VERSION.SDK_INT >= 18) {
                         //internal music player: explicit intent
                         if (!BackgroundPlayer.isRunning && streamThumbnail != null) {
                             ActivityCommunicator.getCommunicator()
@@ -643,7 +643,7 @@ public class VideoItemDetailFragment extends Fragment {
 
         infoItemBuilder = new InfoItemBuilder(a, a.findViewById(android.R.id.content));
 
-        if (android.os.Build.VERSION.SDK_INT < 18) {
+        if (Build.VERSION.SDK_INT < 18) {
             playVideoButton = (FloatingActionButton) a.findViewById(R.id.play_video_button);
         }
         thumbnailWindowLayout = a.findViewById(R.id.detail_stream_thumbnail_window_layout);

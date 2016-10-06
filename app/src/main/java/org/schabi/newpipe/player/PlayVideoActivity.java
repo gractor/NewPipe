@@ -169,7 +169,7 @@ public class PlayVideoActivity extends AppCompatActivity {
             }
         });
 
-        if (android.os.Build.VERSION.SDK_INT >= 17) {
+        if (Build.VERSION.SDK_INT >= 17) {
             decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
                     | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
                     | View.SYSTEM_UI_FLAG_LAYOUT_STABLE);
@@ -284,7 +284,7 @@ public class PlayVideoActivity extends AppCompatActivity {
         uiIsHidden = true;
         actionBar.hide();
         mediaController.hide();
-        if (android.os.Build.VERSION.SDK_INT >= 17) {
+        if (Build.VERSION.SDK_INT >= 17) {
             decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN
                     | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
                     | View.SYSTEM_UI_FLAG_FULLSCREEN

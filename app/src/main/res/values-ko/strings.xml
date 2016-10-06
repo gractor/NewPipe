@@ -60,6 +60,10 @@
     <string name="dark_theme_title">어두운 테마</string>
     <string name="light_theme_title">밝은 테마</string>
 
+    <string name="settings_info">정보</string>
+    <string name="settings_version">버전</string>
+    <string name="settings_license">오픈소스 라이선스</string>
+
     <string name="settings_category_appearance_title">외관</string>
     <string name="settings_category_other_title">기타</string>
     <string name="background_player_playing_toast">백그라운드에서 재생 중</string>

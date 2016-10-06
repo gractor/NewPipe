@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Πλοήγηση στην αρχική σελίδα"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Πλοήγηση προς τα επάνω"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Περισσότερες επιλογές"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Τέλος"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Προβολή όλων"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Επιλέξτε κάποια εφαρμογή"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ΕΝΕΡΓΟΠΟΙΗΣΗ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Αναζήτηση…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Διαγραφή ερωτήματος"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Ερώτημα αναζήτησης"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Αναζήτηση"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Υποβολή ερωτήματος"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Φωνητική αναζήτηση"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Κοινή χρήση με"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Κοινή χρήση με %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Σύμπτυξη"</string>
+    <string name="autoplay_through_intent_summary">Αυτόματη αναπαραγωγή video όταν καλείται από άλλη εφαρμογή.</string>
+    <string name="autoplay_through_intent_title">Αυτόματη αναπαραγωγή μέσω Intent</string>
+    <string name="background_player_name">NewPipe Background Player</string>
+    <string name="background_player_playing_toast">Αναπαραγωγή στο υπόβαθρο</string>
+    <string name="cancel">Ακύρωση</string>
+    <string name="choose_browser">Επιλέξτε browser</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Ενεργοποίηση"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα λειτουργήσει εάν δεν έχετε ενεργοποιήσει τις υπηρεσίες Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Ενεργοποίηση υπηρεσιών Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Εγκατάσταση"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το τηλέφωνό σας."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες λείπουν από το tablet σας."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Λήψη υπηρεσιών Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Σφάλμα Υπηρεσιών Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Παρουσιάζονται προβλήματα με τις υπηρεσίες Google Play στην εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g>. Εάν το πρόβλημα εξακολουθεί να παρουσιάζεται, επικοινωνήστε με τον προγραμματιστή για βοήθεια."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> βασίζεται στις υπηρεσίες Google Play, οι οποίες δεν υποστηρίζονται από τη συσκευή σας. Επικοινωνήστε με τον κατασκευαστή για βοήθεια."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Υπηρεσίες Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Ενημέρωση"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> θα εκτελεστεί αφού ενημερώσετε τις Υπηρεσίες Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Ενημέρωση υπηρεσιών Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Η εφαρμογή <ns1:g id="APP_NAME">%1$s</ns1:g> δεν θα εκτελεστεί χωρίς τις υπηρεσίες Google Play, οι οποίες ενημερώνονται αυτήν τη στιγμή."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Ενημέρωση των υπηρεσιών Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Απαιτείται νέα έκδοση των υπηρεσιών Google Play. Θα ενημερωθεί σύντομα."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Άνοιγμα σε τηλέφωνο"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Σύνδεση"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Συνδεθείτε με το Google"</string>
+    <string name="dark_theme_title">Σκοτεινό</string>
+    <string name="default_audio_format_title">Προεπιλεγμένη μορφή ήχου</string>
+    <string name="default_resolution_title">Προεπιλεγμένη ανάλυση</string>
+    <string name="detail_dislikes_img_view_description">Dislike</string>
+    <string name="detail_likes_img_view_description">Like</string>
+    <string name="detail_thumbnail_view_description">Εικόνα προεπισκόπησης video</string>
+    <string name="detail_uploader_thumbnail_view_description">Εικόνα προφίλ του uploader</string>
+    <string name="did_you_mean">"Μήπως εννοείτε: "</string>
+    <string name="download">Λήψη</string>
+    <string name="download_dialog_title">Λήψη</string>
+    <string name="download_path_audio_dialog_title">Εισάγετε διαδρομή για λήψη αρχείων ήχου.</string>
+    <string name="download_path_audio_summary">Διαδρομή για αποθήκευση αρχείων ήχου</string>
+    <string name="download_path_audio_title">Διαδρομή λήψης αρχείων ήχου</string>
+    <string name="download_path_dialog_title">Εισάγετε διαδρομή για λήψη των video</string>
+    <string name="download_path_summary">Διαδρομή για αποθήκευση των video.</string>
+    <string name="download_path_title">Διαδρομή λήψης video</string>
+    <string name="err_dir_create">Δεν μπόρεσε να δημιουργηθεί ο φάκελος \'%1$s\'</string>
+    <string name="info_dir_created">Δημιουργήθηκε ο φάκελος \'%1$s\'</string>
+    <string name="install">Εγκατάσταση</string>
+    <string name="kore_not_found">Η εφαρμογή Kore δεν βρέθηκε. Εγκατάσταση;</string>
+    <string name="light_theme_title">Φωτεινό</string>
+    <string name="list_thumbnail_view_description">Εικόνα προεπισκόπησης video</string>
+    <string name="loading">Φορτώνει</string>
+    <string name="m4a_description">m4a — καλύτερη ποιότητα</string>
+    <string name="network_error">Σφάλμα δικτύου</string>
+    <string name="next_video_title">Επόμενο video</string>
+    <string name="no_player_found">Δεν βρέθηκε πρόγραμμα αναπαραγωγής. Εγκατάσταση του VLC;</string>
+    <string name="open_in_browser">Άνοιγμα στον browser</string>
+    <string name="play_audio">Ήχος</string>
+    <string name="play_btn_text">Αναπαραγωγή</string>
+    <string name="play_with_kodi_title">Αναπαραγωγή με το Kodi</string>
+    <string name="screen_rotation">περιστροφή</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="search_language_title">Προτιμώμενη γλώσσα περιεχομένου</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Αναζήτηση"</string>
+    <string name="search_page">"Αναζήτηση σελίδας: "</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="settings_activity_title">Ρυθμίσεις</string>
+    <string name="settings_category_appearance_title">Εμφάνιση</string>
+    <string name="settings_category_other_title">Άλλα</string>
+    <string name="settings_category_video_audio_title">Video &amp; Ήχος</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="share_dialog_title">Κοινοποίηση με</string>
+    <string name="show_next_and_similar_title">Προβολή επόμενου και σχετικών video</string>
+    <string name="show_play_with_kodi_summary">Προβολή μιας επιλογής για αναπαραγωγή με το Kodi media center.</string>
+    <string name="show_play_with_kodi_title">Εμφάνιση της επιλογής \"Αναπαραγωγή με το Kodi\"</string>
+    <string name="similar_videos_btn_text">Σχετικά video</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme_title">Θέμα</string>
+    <string name="upload_date_text">Ανέβηκε στις %1$s</string>
+    <string name="url_not_supported_toast">Δεν υποστηρίζεται η διεύθυνση URL</string>
+    <string name="use_external_audio_player_title">Χρήση εξωτερικού audio player</string>
+    <string name="use_external_video_player_title">Χρήση εξωτερικού video player</string>
+    <string name="use_tor_summary">Αναγκάζει την κίνηση λήψης μέσω Tor για αυξημένη ανωνυμία (η αναπαραγωγή δεν υποστηρίζεται ακόμη)</string>
+    <string name="use_tor_title">Χρήση του Tor</string>
+    <string name="view_count_text">%1$s προβολές</string>
+    <string name="webm_description">WebM — δωρεάν format</string>
+</resources>

@@ -1,10 +1,10 @@
 package org.schabi.newpipe.extractor.services.youtube;
 
 import org.jsoup.nodes.Element;
-import org.schabi.newpipe.extractor.AbstractStreamInfo;
+import org.schabi.newpipe.extractor.AbstractVideoInfo;
 import org.schabi.newpipe.extractor.Parser;
-import org.schabi.newpipe.extractor.exceptions.ParsingException;
-import org.schabi.newpipe.extractor.stream_info.StreamPreviewInfoExtractor;
+import org.schabi.newpipe.extractor.ParsingException;
+import org.schabi.newpipe.extractor.StreamPreviewInfoExtractor;
 
 /**
  * Copyright (C) Christian Schabesberger 2016 <chris.schabesberger@mailbox.org>
@@ -146,11 +146,11 @@ public class YoutubeStreamPreviewInfoExtractor implements StreamPreviewInfoExtra
     }
 
     @Override
-    public AbstractStreamInfo.StreamType getStreamType() {
+    public AbstractVideoInfo.StreamType getStreamType() {
         if(isLiveStream(item)) {
-            return AbstractStreamInfo.StreamType.LIVE_STREAM;
+            return AbstractVideoInfo.StreamType.LIVE_STREAM;
         } else {
-            return AbstractStreamInfo.StreamType.VIDEO_STREAM;
+            return AbstractVideoInfo.StreamType.VIDEO_STREAM;
         }
     }
 

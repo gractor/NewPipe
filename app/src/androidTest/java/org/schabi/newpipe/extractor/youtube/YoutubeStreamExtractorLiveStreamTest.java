@@ -2,8 +2,11 @@ package org.schabi.newpipe.extractor.youtube;
 
 import android.test.AndroidTestCase;
 
+import org.schabi.newpipe.Downloader;
+import org.schabi.newpipe.extractor.AbstractVideoInfo;
 import org.schabi.newpipe.extractor.ExtractionException;
 import org.schabi.newpipe.extractor.ParsingException;
+import org.schabi.newpipe.extractor.ServiceList;
 import org.schabi.newpipe.extractor.StreamExtractor;
 
 import java.io.IOException;
@@ -36,7 +39,7 @@ public class YoutubeStreamExtractorLiveStreamTest extends AndroidTestCase {
     public void setUp() throws IOException, ExtractionException {
         //todo: make the extractor not throw over a livestream
         /*
-        extractor = NewPipe.getService("Youtube")
+        extractor = ServiceList.getService("Youtube")
                 .getExtractorInstance("https://www.youtube.com/watch?v=J0s6NjqdjLE", new Downloader());
                 */
     }

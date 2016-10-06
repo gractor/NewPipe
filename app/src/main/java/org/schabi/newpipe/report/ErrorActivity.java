@@ -104,7 +104,7 @@ public class ErrorActivity extends AppCompatActivity {
             this.message = in.readInt();
         }
 
-        public static final Parcelable.Creator<ErrorInfo> CREATOR = new Parcelable.Creator<ErrorInfo>() {
+        public static final Creator<ErrorInfo> CREATOR = new Creator<ErrorInfo>() {
             @Override
             public ErrorInfo createFromParcel(Parcel source) {
                 return new ErrorInfo(source);

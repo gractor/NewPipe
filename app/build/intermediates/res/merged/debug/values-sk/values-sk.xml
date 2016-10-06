@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"VYP."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ZAP."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <string name="add">Nová misia</string>
+    <string name="app_ui_crash">Aplikácia/UP zlyhalo</string>
+    <string name="audio">Zvuk</string>
+    <string name="autoplay_by_calling_app_summary">Video bude automaticky prehrané pri zavolaní NewPipe inou aplikáciou.</string>
+    <string name="autoplay_by_calling_app_title">Automaticky prehrať video pri zavolaní</string>
+    <string name="autoplay_through_intent_summary">Automatický prehrá video na žiadosť z inej aplikácie.</string>
+    <string name="autoplay_through_intent_title">Automatické prehrávanie na vyžiadanie</string>
+    <string name="background_player_name">NewPipe Prehrávač na pozadí</string>
+    <string name="background_player_playing_toast">Prehrávanie na pozadí</string>
+    <string name="blocked_by_gema">Obsah blokuje GEMA.</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="checksum">Kontrolný súčet</string>
+    <string name="choose_browser">Vyberte prehliadač</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Povoliť"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikácia <ns1:g id="APP_NAME">%1$s</ns1:g> bude fungovať až po povolení služieb Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Povoliť služby Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Inštalovať"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Na spustenie aplikácie <ns1:g id="APP_NAME">%1$s</ns1:g> sa vyžadujú služby Google Play, ktoré na telefóne nemáte."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Na spustenie aplikácie <ns1:g id="APP_NAME">%1$s</ns1:g> sa vyžadujú služby Google Play, ktoré na tablete nemáte."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Inštalovať služby Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Chyba služieb Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"Aplikácia <ns1:g id="APP_NAME">%1$s</ns1:g> má problémy so službami Google Play. Ak problém pretrváva, kontaktujte vývojára a požiadajte ho o pomoc."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Aplikácia <ns1:g id="APP_NAME">%1$s</ns1:g> potrebuje služby Google Play, ktoré vaše zariadenie nepodporuje. Kontaktujte príslušného výrobcu a požiadajte ho o pomoc."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Služby Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizovať"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikáciu <ns1:g id="APP_NAME">%1$s</ns1:g> bude možné spustiť až po aktualizácii služieb Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Aktualizácia služieb Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Na spustenie aplikácie <ns1:g id="APP_NAME">%1$s</ns1:g> sa vyžadujú služby Google Play, ktoré sa momentálne aktualizujú."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Služby Google Play sa aktualizujú"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Vyžaduje sa nová verzia služieb Google Play. Aktualizujú sa automaticky v najbližšom čase."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otvoriť v telefóne"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prihlásiť sa"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prihlásiť sa do účtu Google"</string>
+    <string name="content">Obsah</string>
+    <string name="content_not_available">Obsah nie je dostupný.</string>
+    <string name="could_not_get_stream">Nemožno získať žiadne vysielanie.</string>
+    <string name="could_not_load_image">Nemožno načítať obrázok</string>
+    <string name="could_not_load_thumbnails">Nemožno zobraziť všetky náhľady</string>
+    <string name="could_not_setup_download_menu">Nemožno nastaviť menu preberania.</string>
+    <string name="dark_theme_title">Tmavá</string>
+    <string name="default_audio_format_title">Predvolený zvukový formát</string>
+    <string name="default_resolution_title">Štandardné rozlíšenie</string>
+    <string name="delete">Zmazať</string>
+    <string name="detail_dislikes_img_view_description">Dislajky</string>
+    <string name="detail_likes_img_view_description">Lajky</string>
+    <string name="detail_thumbnail_view_description">Náhľad videa</string>
+    <string name="detail_uploader_thumbnail_view_description">Náhľad uploadera</string>
+    <string name="did_you_mean">Mysleli ste: %1$s?</string>
+    <string name="download">Prevziať</string>
+    <string name="download_dialog_title">Prevziať</string>
+    <string name="download_path_audio_dialog_title">Vložte cestu kam sa budú ukladať zvukové súbory.</string>
+    <string name="download_path_audio_summary">Cesta kam sa bude ukladať prevzaté audio</string>
+    <string name="download_path_audio_title">Prevzaté audio ukladať do</string>
+    <string name="download_path_dialog_title">Vložte cestu kam sa budú ukladať videá</string>
+    <string name="download_path_summary">Cesta kam sa budú ukladať prevzaté videá.</string>
+    <string name="download_path_title">Prevzaté video ukladať do</string>
+    <string name="downloads">Prevzaté</string>
+    <string name="downloads_title">Prevzaté</string>
+    <string name="duration_live">naživo</string>
+    <string name="enable_background_audio">Prehrávať na pozadí</string>
+    <string name="err_dir_create">Nemožno vytvoriť adresár na preberanie \'%1$s\'</string>
+    <string name="error_details_headline">Detaily:</string>
+    <string name="error_drm_not_supported">Chránený obsah nie je podporovaný cez API úrovne pod 18</string>
+    <string name="error_drm_unknown">Nastala neznáma chyba DRM</string>
+    <string name="error_drm_unsupported_scheme">Toto zariadenie nepodporuje požadovanú DRM schému</string>
+    <string name="error_instantiating_decoder">Nemožno vytvoriť inštanciu dekódera <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_no_decoder">Toto zariadenie nemá dekóder pre <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">Toto zariadenie nemá zabezpečený dekóder pre <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_querying_decoders">Nemožno zavolať dekódery zariadenia</string>
+    <string name="error_report_button_text">Nahlásiť chybu mejlom</string>
+    <string name="error_report_title">Hlásenie o chybe</string>
+    <string name="error_snackbar_action">SPRÁVA</string>
+    <string name="error_snackbar_message">Pardon, nastala chyba.</string>
+    <string name="finish">Dobre</string>
+    <string name="general_error">Chyba</string>
+    <string name="info_dir_created">Adresár na preberanie bol vytvorený \'%1$s\'</string>
+    <string name="info_labels">Čo:\\nPožiadavka:\\nJazyk obsahu:\\nSlužba:\\nČas v GMT:\\nBalík:\\nVerzia:\\nVerzia OS:\\nGlob. IP rozsah:</string>
+    <string name="info_requested_stream_lbl">Požadované vysielanie:</string>
+    <string name="info_searched_lbl">Hľadané:</string>
+    <string name="install">Inštalovať</string>
+    <string name="kore_not_found">Aplikácia Kore nenajdená. Inštalovať Kore?</string>
+    <string name="light_parsing_error">Nemožno kompletne parsovať web.</string>
+    <string name="light_theme_title">Svetlá</string>
+    <string name="list_thumbnail_view_description">Náhľad videa</string>
+    <string name="live_streams_not_supported">Toto je ŽIVÉ VYSIELANIE. Momentálne je nepodporované.</string>
+    <string name="loading">Nahrávanie</string>
+    <string name="logging">Záznamy</string>
+    <string name="logging_normal">Normálne</string>
+    <string name="logging_verbose">Podrobné</string>
+    <string name="m4a_description">m4a — lepšia kvalita</string>
+    <string name="main_bg_subtitle">Začnite vyhľadaním obsahu</string>
+    <string name="msg_copied">Skopírované do schránky.</string>
+    <string name="msg_error">Chyba</string>
+    <string name="msg_exists">Súbor už existuje</string>
+    <string name="msg_fetch_filename">Získať názov súboru</string>
+    <string name="msg_name">Názov súboru</string>
+    <string name="msg_running">NewPipe Preberanie</string>
+    <string name="msg_running_detail">Dotykom zobraziť detaily</string>
+    <string name="msg_server_unsupported">Nepodporovaný server</string>
+    <string name="msg_threads">Vlákna</string>
+    <string name="msg_url">Stiahnuť URL</string>
+    <string name="msg_url_malform">Neplatná URL alebo bez pripojenia na Internet</string>
+    <string name="msg_wait">Čakajte prosím...</string>
+    <string name="network_error">Chyba siete</string>
+    <string name="next_video_title">Ďaľšie video</string>
+    <string name="no_available_dir">Vyberte si dostupný adresár na preberanie.</string>
+    <string name="no_player_found">Nenašiel sa prehrávač. Nainštalovať VLC?</string>
+    <string name="off">[vypnuté]</string>
+    <string name="open_in_browser">Otvoriť v prehliadači</string>
+    <string name="parsing_error">Nemožno analyzovať webovú stránku.</string>
+    <string name="pause">Pauza</string>
+    <string name="play_audio">Zvuk</string>
+    <string name="play_btn_text">Prehrať</string>
+    <string name="play_with_kodi_title">Prehrať cez Kodi</string>
+    <string name="report_error">Nahlásiť chybu</string>
+    <string name="retry">Znova</string>
+    <string name="screen_rotation">otočenie</string>
+    <string name="search">Hľadať</string>
+    <string name="search_language_title">Preferovaný jazyk obsahu</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Vyhľadávanie"</string>
+    <string name="search_page">"Hľadať stránku: "</string>
+    <string name="settings">Nastavenia</string>
+    <string name="settings_activity_title">Nastavenia</string>
+    <string name="settings_category_appearance_title">Vzhľad</string>
+    <string name="settings_category_other_title">Iné</string>
+    <string name="settings_category_video_audio_title">Video &amp; Zvuk</string>
+    <string name="settings_title">Nastavenia</string>
+    <string name="share">Zdieľať</string>
+    <string name="share_dialog_title">Zdieľať s</string>
+    <string name="show_age_restricted_content_title">Zobraziť vekovo obmedzený obsah</string>
+    <string name="show_next_and_similar_title">Ukázať ďaľšie a podobné videá</string>
+    <string name="show_play_with_kodi_summary">Zobrazovať možnosť prehrať video cez mediálne centrum Kodi.</string>
+    <string name="show_play_with_kodi_title">Zobraziť možnosť \"Prehrať cez Kodi\"</string>
+    <string name="similar_videos_btn_text">Podobné videá</string>
+    <string name="sorry_string">Pardon, toto sa nemalo stať.</string>
+    <string name="start">Štart</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">Prístup na úložisko bol zakázaný</string>
+    <string name="switch_mode">Prepnúť medzi zoznamom a mriežkou</string>
+    <string name="text">Text</string>
+    <string name="theme_title">Téma</string>
+    <string name="title_activity_channel">Aktivita kanálov</string>
+    <string name="upload_date_text">Zverejnené %1$s</string>
+    <string name="url_not_supported_toast">URL nie je podporovaná</string>
+    <string name="use_exoplayer_summary">Experimentálne</string>
+    <string name="use_exoplayer_title">Použit ExoPlayer</string>
+    <string name="use_external_audio_player_title">Použiť externý prehravač zvuku</string>
+    <string name="use_external_video_player_title">Použiť externý prehrávač videa</string>
+    <string name="use_tor_summary">(Experimentálne) Vyžadovať preberanie cez Tor pre väčšie súkromie (streamovanie videa momentálne nie je podporované).</string>
+    <string name="use_tor_title">Použit Tor</string>
+    <string name="user_report">Hlásenie používateľa</string>
+    <string name="video">Video</string>
+    <string name="video_is_age_restricted">Toto video je vekovo obmedzené. Povoľte zobrazenie obsahu v nastavení.</string>
+    <string name="view">Zobraziť</string>
+    <string name="view_count_text">%1$s pozretí</string>
+    <string name="webm_description">WebM — voľný formát</string>
+    <string name="what_device_headline">Info:</string>
+    <string name="what_happened_headline">Čo sa stalo:</string>
+    <string name="your_comment">Váš komentár (v Angličtine):</string>
+    <string name="youtube_signature_decryption_error">Nepodarilo sa dekódovať url videa.</string>
+</resources>

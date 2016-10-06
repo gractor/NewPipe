@@ -1,0 +1,459 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:2:1-185:12
+	package
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:7:5-68
+MERGED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:9:22-78
+application
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:11:5-183:19
+MERGED from [com.android.support:design:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.nirhart:parallaxscroll:1.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.nononsenseapps:filepicker:3.0.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/AndroidManifest.xml:17:5-20
+MERGED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:39:5-43:19
+MERGED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.android.gms:play-services-basement:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-core:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.6.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-config:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:18:5-20:19
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:16:9-41
+	tools:ignore
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:14:9-36
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:17:9-40
+	android:logo
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:15:9-36
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:12:9-46
+activity#com.gractor.bighistory.SplashActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:20:9-32:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:25:13-45
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:24:13-44
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:21:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:30:27-74
+service#com.gractor.bighistory.MyFirebaseMessagingService
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:34:9-39:19
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:35:13-77
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:36:13-38:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:37:25-75
+service#com.gractor.bighistory.MyFirebaseInstanceIDService
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:41:9-46:19
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:42:13-78
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:43:13-45:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:44:17-79
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:44:25-77
+activity#org.schabi.newpipe.MainActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:48:9-55:20
+	android:clearTaskOnLaunch
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:53:13-45
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:50:13-45
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:52:13-44
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:51:13-44
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:49:13-59
+activity#org.schabi.newpipe.detail.VideoItemDetailActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:57:9-106:20
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:58:13-77
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:61:13-63:67
+	android:value
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:63:17-64
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:62:17-63
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+android.media.action.MEDIA_PLAY_FROM_SEARCH+android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:65:13-81:29
+action#android.intent.action.VIEW
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:66:17-69
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:66:25-66
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:67:17-86
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:67:25-83
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:68:17-77
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:68:25-74
+category#android.intent.category.DEFAULT
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:70:17-76
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:70:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:71:27-75
+data
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:73:17-47
+	android:scheme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:73:23-44
+activity#org.schabi.newpipe.player.PlayVideoActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:107:9-111:46
+	tools:ignore
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:111:13-43
+	android:configChanges
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:109:13-74
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:110:13-52
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:108:13-71
+service#org.schabi.newpipe.player.BackgroundPlayer
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:113:9-116:62
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:116:13-59
+	android:exported
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:115:13-37
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:114:13-70
+activity#org.schabi.newpipe.player.ExoPlayerActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:118:9-135:20
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:121:13-45
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:122:13-48
+	android:configChanges
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:120:13-83
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:123:13-47
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:119:13-71
+intent-filter#android.intent.category.DEFAULT+org.schabi.newpipe.exoplayer.action.VIEW
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:124:13-134:29
+action#org.schabi.newpipe.exoplayer.action.VIEW
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:125:17-83
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:125:25-80
+activity#org.schabi.newpipe.settings.SettingsActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:142:9-144:63
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:144:13-60
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:143:13-72
+activity#org.schabi.newpipe.PanicResponderActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:145:9-155:20
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:147:13-48
+	android:noHistory
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:148:13-37
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:149:13-59
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:146:13-69
+intent-filter#android.intent.category.DEFAULT+info.guardianproject.panic.action.TRIGGER
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:150:13-154:29
+action#info.guardianproject.panic.action.TRIGGER
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:151:17-84
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:151:25-81
+activity#org.schabi.newpipe.ExitActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:156:9-159:62
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:158:13-50
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:159:13-59
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:157:13-59
+activity#org.schabi.newpipe.report.ErrorActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:160:9-58
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:160:19-55
+activity#org.schabi.newpipe.download.DownloadActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:163:9-167:47
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:165:13-45
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:166:13-44
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:167:13-44
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:164:13-72
+service#us.shandian.giga.service.DownloadManagerService
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:169:9-83
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:169:18-80
+activity#com.nononsenseapps.filepicker.FilePickerActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:171:9-176:20
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:173:13-45
+	android:launchMode
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:175:13-43
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:174:13-51
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:172:13-76
+activity#org.schabi.newpipe.ChannelActivity
+ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:178:9-181:59
+	android:label
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:180:13-59
+	android:theme
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:181:13-56
+	android:name
+		ADDED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml:179:13-62
+uses-sdk
+INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.nirhart:parallaxscroll:1.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.github.nirhart/parallaxscroll/1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.5] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.exoplayer/exoplayer/r1.5.5/AndroidManifest.xml:24:5-26:41
+MERGED from [com.nononsenseapps:filepicker:3.0.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.nononsenseapps/filepicker/3.0.0/AndroidManifest.xml:13:5-15:41
+MERGED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:37:5-42
+MERGED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:20:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.6.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:17:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.2.1] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/AndroidManifest.xml
+activity#org.acra.dialog.CrashReportDialog
+ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:9-217
+	android:excludeFromRecents
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:19-52
+	android:launchMode
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:87-122
+	android:finishOnTaskLaunch
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:53-86
+	android:theme
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:172-215
+	android:name
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:40:123-171
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/ch.acra/acra/4.9.0/AndroidManifest.xml:42:43-87
+service#com.google.firebase.crash.internal.service.FirebaseCrashReceiverService
+ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:24:9-117
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:24:18-79
+service#com.google.firebase.crash.internal.service.FirebaseCrashSenderService
+ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:26:9-115
+	android:process
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:26:78-113
+	android:name
+		ADDED from [com.google.firebase:firebase-crash:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/AndroidManifest.xml:26:18-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/AndroidManifest.xml:20:20-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/AndroidManifest.xml:6:79-124
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/AndroidManifest.xml:32:16-87
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/AndroidManifest.xml:23:18-87
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.0] /Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/AndroidManifest.xml:19:19-85

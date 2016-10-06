@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вгору"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Інші опції"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Переглянути всі"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Вибрати програму"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ВИМК."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"УВІМК."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Пошук…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Очистити запит"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Пошуковий запит"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Пошук"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Надіслати запит"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовий пошук"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
+    <string name="autoplay_by_calling_app_summary">Автоматично відтворювати відео коли NewPipe викликано з іншого додатку.</string>
+    <string name="autoplay_by_calling_app_title">Автоматично відтворювати при виклику з іншого додатку</string>
+    <string name="background_player_name">Фоновий програвач NewPipe</string>
+    <string name="background_player_playing_toast">Відтворення у фоновому режимі</string>
+    <string name="blocked_by_gema">Заблоковано GEMA.</string>
+    <string name="cancel">Скасувати</string>
+    <string name="choose_browser">Виберіть браузер</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Увімкнути"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не ввімкнути сервіси Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Увімкнути сервіси Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Установити"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, яких немає на вашому телефоні."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, яких немає на вашому планшеті."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Установити сервіси Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Помилка сервісів Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"У додатка <ns1:g id="APP_NAME">%1$s</ns1:g> виникла проблема із сервісами Google Play. Якщо проблема не зникне, зверніться по допомогу до розробника."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> працює завдяки сервісам Google Play, які не підтримуються на вашому пристрої. Зверніться по допомогу до виробника."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Сервіси Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Оновити"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме, якщо не оновити сервіси Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Оновіть сервіси Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Додаток <ns1:g id="APP_NAME">%1$s</ns1:g> не працюватиме без сервісів Google Play, які зараз оновлюються."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Сервіси Google Play оновлюються"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Відкрити на телефоні"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Увійти"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Увійти в облік. запис Google"</string>
+    <string name="content">Контент</string>
+    <string name="content_not_available">Контент не доступний.</string>
+    <string name="could_not_get_stream">Не вдалося отримати ніякий потік.</string>
+    <string name="could_not_load_thumbnails">Не вдалося завантажити всі ескізи</string>
+    <string name="could_not_setup_download_menu">Не вдалося налаштувати меню завантаження.</string>
+    <string name="dark_theme_title">Темна</string>
+    <string name="default_audio_format_title">Аудіо формат за замовчуванням</string>
+    <string name="default_resolution_title">Роздільна здатність за замовчуванням</string>
+    <string name="did_you_mean">Ви мали на увазі: %1$s ?</string>
+    <string name="download">Завантажити</string>
+    <string name="download_dialog_title">Завантажити</string>
+    <string name="download_path_audio_dialog_title">Вкажіть шлях для завантаження аудіо файлів.</string>
+    <string name="download_path_audio_summary">Шлях де будуть зберігатись завантажені аудіо файли.</string>
+    <string name="download_path_audio_title">Шлях для завантаження аудіо</string>
+    <string name="download_path_dialog_title">Вкажіть шлях для завантаження відео</string>
+    <string name="download_path_summary">Шлях де будуть зберігатись завантажені відео.</string>
+    <string name="download_path_title">Шлях для завантаження відео</string>
+    <string name="duration_live">наживо</string>
+    <string name="error_report_button_text">Звіт про помилку за допомогою пошти</string>
+    <string name="error_snackbar_action">ЗВІТУВАТИ</string>
+    <string name="error_snackbar_message">На жаль сталася помилка.</string>
+    <string name="general_error">Помилка</string>
+    <string name="install">Встановити</string>
+    <string name="kore_not_found">Додаток Kore не знайдено. Встановити?</string>
+    <string name="light_parsing_error">Не вдалося повністю проаналізувати веб-сайт.</string>
+    <string name="light_theme_title">Світла</string>
+    <string name="live_streams_not_supported">Це пряма трансляція. Це ще не підтримується.</string>
+    <string name="loading">Завантаження</string>
+    <string name="m4a_description">m4a — краща якість</string>
+    <string name="network_error">Помилка мережі</string>
+    <string name="next_video_title">Наступне відео</string>
+    <string name="no_player_found">Потоковий програвач не знайдено. Встановити VLC?</string>
+    <string name="open_in_browser">Відкрити в браузері</string>
+    <string name="parsing_error">Не вдалося проаналізувати веб-сайт.</string>
+    <string name="play_audio">Аудіо</string>
+    <string name="play_btn_text">Відтворити</string>
+    <string name="play_with_kodi_title">Відтворювати за допомогою Kodi</string>
+    <string name="screen_rotation">обертання</string>
+    <string name="search">Пошук</string>
+    <string name="search_language_title">Мова контенту</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Пошук"</string>
+    <string name="search_page">"Пошукова сторінка: "</string>
+    <string name="settings">Налаштування</string>
+    <string name="settings_activity_title">Налаштування</string>
+    <string name="settings_category_appearance_title">Зовнішній вигляд</string>
+    <string name="settings_category_other_title">Інше</string>
+    <string name="settings_category_video_audio_title">Відео та Аудіо</string>
+    <string name="share">Поділитись</string>
+    <string name="share_dialog_title">Поділитись з</string>
+    <string name="show_age_restricted_content_title">Показувати контент з віковим обмеженням</string>
+    <string name="show_next_and_similar_title">Показувати наступні та схожі відео</string>
+    <string name="show_play_with_kodi_summary">Показувати опцію відтворення відео за допомогою Kodi media center.</string>
+    <string name="show_play_with_kodi_title">Показувати опцію \"Програвати за допомогою Kodi\"</string>
+    <string name="similar_videos_btn_text">Схожі відео</string>
+    <string name="sorry_string">Шкода, цього не повинно було статися.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">В доступі відмовлено</string>
+    <string name="theme_title">Тема</string>
+    <string name="upload_date_text">Завантажений %1$s</string>
+    <string name="url_not_supported_toast">URL не підтримується</string>
+    <string name="use_exoplayer_summary">Експериментальний</string>
+    <string name="use_exoplayer_title">Використовувати ExoPlayer</string>
+    <string name="use_external_audio_player_title">Використовувати зовнішній аудіо програвач</string>
+    <string name="use_external_video_player_title">Використовувати зовнішній відео програвач</string>
+    <string name="video_is_age_restricted">Відео має вікові обмеження. Спершу активуйте опцію для відображення таких відео в налаштуваннях.</string>
+    <string name="view_count_text">%1$s переглядів</string>
+    <string name="webm_description">WebM — вільний формат</string>
+    <string name="what_device_headline">Інформація:</string>
+    <string name="what_happened_headline">Що сталося:</string>
+    <string name="youtube_signature_decryption_error">Не вдалося розшифрувати підпис url відео.</string>
+</resources>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="action_settings">Configurações</string>
+    <string name="add">Nova missão</string>
+    <string name="app_ui_crash">Aplicação encerrada</string>
+    <string name="audio">Áudio</string>
+    <string name="autoplay_by_calling_app_summary">Reproduzir vídeo automaticamente se o NewPipe for invocado por outra aplicação.</string>
+    <string name="autoplay_by_calling_app_title">Reproduzir se invocado por outra aplicação</string>
+    <string name="autoplay_through_intent_summary">Reproduzir automaticamente o vídeo se invocado por outra aplicação.</string>
+    <string name="autoplay_through_intent_title">Reproduzir através de Intent</string>
+    <string name="background_player_name">Reprodutor de fundo NewPipe</string>
+    <string name="background_player_playing_toast">A reproduzir em segundo plano</string>
+    <string name="blocked_by_gema">Bloqueado pela GEMA.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="checksum">Soma de verificação</string>
+    <string name="choose_browser">Escolher navegador</string>
+    <string name="content">Conteúdo</string>
+    <string name="content_not_available">Conteúdo não disponível.</string>
+    <string name="could_not_get_stream">Não foi possível obter a emissão.</string>
+    <string name="could_not_load_image">Não foi possível carregar a imagem</string>
+    <string name="could_not_load_thumbnails">Incapaz de carregar todas as miniaturas</string>
+    <string name="could_not_setup_download_menu">Não foi possível configurar o menu de descargas.</string>
+    <string name="dark_theme_title">Escuro</string>
+    <string name="default_audio_format_title">Formato áudio padrão</string>
+    <string name="default_resolution_title">Resolução padrão</string>
+    <string name="delete">Apagar</string>
+    <string name="detail_dislikes_img_view_description">Não gosto</string>
+    <string name="detail_likes_img_view_description">Gosto</string>
+    <string name="detail_thumbnail_view_description">Miniatura de vídeos</string>
+    <string name="detail_uploader_thumbnail_view_description">Carregador de miniaturas</string>
+    <string name="did_you_mean">Será que queria dizer: %1$s?</string>
+    <string name="download">Descarregar</string>
+    <string name="download_dialog_title">Descarregar</string>
+    <string name="download_path_audio_dialog_title">Digite o caminho para os ficheiros de áudio.</string>
+    <string name="download_path_audio_summary">Local para guardar o áudio descarregado.</string>
+    <string name="download_path_audio_title">Descarga de áudio</string>
+    <string name="download_path_dialog_title">Digite o caminho para os vídeos</string>
+    <string name="download_path_summary">Local para guardar os vídeos descarregados.</string>
+    <string name="download_path_title">Descarga de vídeos</string>
+    <string name="downloads">Descargas</string>
+    <string name="downloads_title">Descargas</string>
+    <string name="duration_live">direto</string>
+    <string name="enable_background_audio">Reproduzir em segundo plano</string>
+    <string name="err_dir_create">Não foi possível criar o diretório \'%1$s\'</string>
+    <string name="error_details_headline">Detalhes:</string>
+    <string name="error_drm_not_supported">O conteúdo protegido não é permitido em API com nível inferior a 18</string>
+    <string name="error_drm_unknown">Ocorreu um erro de DRM desconhecido</string>
+    <string name="error_drm_unsupported_scheme">Este dispositivo não tem suporte ao esquema DRM necessário</string>
+    <string name="error_instantiating_decoder">Incapaz de iniciar o descodificador <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_no_decoder">Este dispositivo não disponibiliza um descodificador para <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">Este dispositivo não disponibiliza um descodificador seguro para <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_querying_decoders">Incapaz de processar os descodificadores</string>
+    <string name="error_report_button_text">Reportar erro por e-mail</string>
+    <string name="error_report_title">Relatório de erro</string>
+    <string name="error_snackbar_action">Relatório</string>
+    <string name="error_snackbar_message">Ocorreram alguns erros.</string>
+    <string name="finish">OK</string>
+    <string name="general_error">Erro</string>
+    <string name="info_dir_created">Diretório \'%1$s\' criado com sucesso</string>
+    <string name="info_labels">O quê:\\nPedido:\\nIdioma do conteúdo:\\nServiço:\\nHora GMT:\\nPacote:\\nVersão:\\nVersão do SO:\\nIP global:</string>
+    <string name="info_requested_stream_lbl">Emissão solicitada:</string>
+    <string name="info_searched_lbl">Pesquisou por:</string>
+    <string name="install">Instalar</string>
+    <string name="installeKore">Instalar o Kore</string>
+    <string name="kore_not_found">Aplicação não encontrada. Instalar o Kore?</string>
+    <string name="light_parsing_error">Não foi possível processar o sítio web.</string>
+    <string name="light_theme_title">Claro</string>
+    <string name="list_thumbnail_view_description">Miniatura de vídeos</string>
+    <string name="live_streams_not_supported">Esta é uma emissão em direto. Estas emissões ainda não são suportadas.</string>
+    <string name="loading">A carregar</string>
+    <string name="logging">Registo</string>
+    <string name="logging_normal">Normal</string>
+    <string name="logging_verbose">Detalhado</string>
+    <string name="m4a_description">m4a — melhor qualidade</string>
+    <string name="main_bg_subtitle">Toque para iniciar a pesquisa</string>
+    <string name="msg_copied">Copiado para a área de transferência.</string>
+    <string name="msg_error">Erro</string>
+    <string name="msg_exists">Ficheiro já existe</string>
+    <string name="msg_fetch_filename">Obter nome de ficheiro</string>
+    <string name="msg_name">Nome do ficheiro</string>
+    <string name="msg_running">Descarga NewPipe</string>
+    <string name="msg_running_detail">Toque para detalhes</string>
+    <string name="msg_server_unsupported">Servidor não suportado</string>
+    <string name="msg_threads">Tópicos</string>
+    <string name="msg_url">URL da descarga</string>
+    <string name="msg_url_malform">URL deformado ou internet não disponível</string>
+    <string name="msg_wait">Por favor aguarde...</string>
+    <string name="network_error">Erro de rede</string>
+    <string name="next_video_title">Vídeo seguinte</string>
+    <string name="no_available_dir">Por favor selecione um diretório disponível.</string>
+    <string name="no_player_found">Reprodutor não disponível. Instalar o VLC?</string>
+    <string name="off">[off]</string>
+    <string name="open_in_browser">Abrir no navegador</string>
+    <string name="parsing_error">Incapaz de processar o sítio web.</string>
+    <string name="pause">Pausa</string>
+    <string name="play_audio">Áudio</string>
+    <string name="play_btn_text">Reproduzir</string>
+    <string name="play_with_kodi_title">Reproduzir com Kodi</string>
+    <string name="report_error">Reportar um erro</string>
+    <string name="retry">Tentar novamente</string>
+    <string name="screen_rotation">rotação</string>
+    <string name="search">Pesquisar</string>
+    <string name="search_language_title">Idioma preferencial do conteúdo</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Pesquisar"</string>
+    <string name="search_page">"Página de pesquisa: "</string>
+    <string name="settings">Definições</string>
+    <string name="settingsCategoryEtcTitle">Outras</string>
+    <string name="settingsCategoryVideoInfoTittle">Informações</string>
+    <string name="settings_activity_title">Definições</string>
+    <string name="settings_category_appearance_title">Aparência</string>
+    <string name="settings_category_other_title">Outra</string>
+    <string name="settings_category_video_audio_title">Vídeo e áudio</string>
+    <string name="settings_title">Definições</string>
+    <string name="share">Partilhar</string>
+    <string name="share_dialog_title">Partilhar com</string>
+    <string name="show_age_restricted_content_title">Restringir conteúdo por idade</string>
+    <string name="show_next_and_similar_title">Mostrar vídeos seguintes e similares</string>
+    <string name="show_play_with_kodi_summary">Mostra uma opção para reproduzir o vídeo com o Kodi.</string>
+    <string name="show_play_with_kodi_title">Mostrar opção \"Reproduzir com Kodi\"</string>
+    <string name="similar_videos_btn_text">Vídeos similares</string>
+    <string name="sorry_string">Isto não deveria ter acontecido.</string>
+    <string name="start">Iniciar</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">Não foi concedida permissão para aceder ao armazenamento</string>
+    <string name="switch_mode">Alternar entre lista e grelha</string>
+    <string name="text">Texto</string>
+    <string name="theme_title">Tema</string>
+    <string name="title_activity_channel">Atividade do canal</string>
+    <string name="upload_date_text">Publicado em %1$s</string>
+    <string name="url_not_supported_toast">URL não suportado</string>
+    <string name="use_exoplayer_summary">Experimental</string>
+    <string name="use_exoplayer_title">Usar ExoPlayer</string>
+    <string name="use_external_audio_player_title">Utilizar reprodutor de áudio externo</string>
+    <string name="use_external_video_player_title">Utilizar reprodutor de vídeo externo</string>
+    <string name="use_tor_summary">(Experimental) Utilizar a rede Tor para ter mais privacidade (ainda não é suportada a emissão de vídeos).</string>
+    <string name="use_tor_title">Utilizar Tor</string>
+    <string name="user_report">Relatório</string>
+    <string name="video">Vídeo</string>
+    <string name="video_is_age_restricted">O vídeo está restringido por idade. Ative a restrição de vídeos por idade nas definições.</string>
+    <string name="view">Ver</string>
+    <string name="view_count_text">%1$s visualizações</string>
+    <string name="webm_description">WebM — formato livre</string>
+    <string name="what_device_headline">Info:</string>
+    <string name="what_happened_headline">O que ocorreu:</string>
+    <string name="your_comment">Comentários (em Inglês):</string>
+    <string name="youtube_signature_decryption_error">Incapaz de decifrar a assinatura do vídeo.</string>
+</resources>

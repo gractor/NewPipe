@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="1813209224588"
+    token="-2312538893354837075"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="3029" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1283" />
+    <task
+        name="verifier"
+        duration="100" />
+
+    <artifact
+        location="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1813209224588"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

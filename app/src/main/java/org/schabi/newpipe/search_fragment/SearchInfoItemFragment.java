@@ -18,13 +18,13 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import org.schabi.newpipe.extractor.NewPipe;
-import org.schabi.newpipe.extractor.search.SearchResult;
 import org.schabi.newpipe.info_list.InfoItemBuilder;
 import org.schabi.newpipe.report.ErrorActivity;
 import org.schabi.newpipe.R;
 import org.schabi.newpipe.detail.VideoItemDetailActivity;
 import org.schabi.newpipe.detail.VideoItemDetailFragment;
+import org.schabi.newpipe.extractor.SearchResult;
+import org.schabi.newpipe.extractor.ServiceList;
 import org.schabi.newpipe.info_list.InfoListAdapter;
 
 /**
@@ -72,7 +72,7 @@ public class SearchInfoItemFragment extends Fragment {
                     ErrorActivity.reportError(a, e, null,
                             a.findViewById(android.R.id.content),
                             ErrorActivity.ErrorInfo.make(ErrorActivity.SEARCHED,
-                                    NewPipe.getNameOfService(streamingServiceId),
+                                    ServiceList.getNameOfService(streamingServiceId),
                                     "Could not get widget with focus", R.string.general_error));
                 }
                 // clear focus
@@ -137,13 +137,13 @@ public class SearchInfoItemFragment extends Fragment {
             streamingServiceId = savedInstanceState.getInt(STREAMING_SERVICE);
         } else {
             try {
-                streamingServiceId = NewPipe.getIdOfService("Youtube");
+                streamingServiceId = ServiceList.getIdOfService("Youtube");
             } catch(Exception e) {
                 e.printStackTrace();
                 ErrorActivity.reportError(getActivity(), e, null,
                         getActivity().findViewById(android.R.id.content),
                         ErrorActivity.ErrorInfo.make(ErrorActivity.SEARCHED,
-                                NewPipe.getNameOfService(streamingServiceId),
+                                ServiceList.getNameOfService(streamingServiceId),
                                 "", R.string.general_error));
             }
         }
@@ -181,7 +181,7 @@ public class SearchInfoItemFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_searchinfoitem, container, false);
-
+        getActivity().setTitle("My Title");
         Context context = view.getContext();
         loadingIndicator = (ProgressBar) view.findViewById(R.id.progressBar);
         recyclerView = (RecyclerView) view.findViewById(R.id.list);
@@ -238,10 +238,11 @@ public class SearchInfoItemFragment extends Fragment {
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
         inflater.inflate(R.menu.search_menu, menu);
+        start();
 
-        MenuItem searchItem = menu.findItem(R.id.action_search);
-        searchView = (SearchView) searchItem.getActionView();
-        setupSearchView(searchView);
+//        MenuItem searchItem = menu.findItem(R.id.action_search);
+//        searchView = (SearchView) searchItem.getActionView();
+//        setupSearchView(searchView);
     }
 
     @Override
@@ -250,14 +251,14 @@ public class SearchInfoItemFragment extends Fragment {
     }
 
     private void setupSearchView(SearchView searchView) {
-        suggestionListAdapter = new SuggestionListAdapter(getActivity());
-        searchView.setSuggestionsAdapter(suggestionListAdapter);
-        searchView.setOnSuggestionListener(new SearchSuggestionListener(searchView, suggestionListAdapter));
-        searchView.setOnQueryTextListener(new SearchQueryListener());
-        if(searchQuery != null && !searchQuery.isEmpty()) {
-            searchView.setQuery(searchQuery, false);
-            searchView.setIconifiedByDefault(false);
-        }
+//        suggestionListAdapter = new SuggestionListAdapter(getActivity());
+//        searchView.setSuggestionsAdapter(suggestionListAdapter);
+//        searchView.setOnSuggestionListener(new SearchSuggestionListener(searchView, suggestionListAdapter));
+//        searchView.setOnQueryTextListener(new SearchQueryListener());
+//        if(searchQuery != null && !searchQuery.isEmpty()) {
+//            searchView.setQuery(searchQuery, false);
+//            searchView.setIconifiedByDefault(false);
+//        }
     }
 
     private void search(String query) {
@@ -278,5 +279,40 @@ public class SearchInfoItemFragment extends Fragment {
                 new SuggestionSearchRunnable(streamingServiceId, query, getActivity(), suggestionListAdapter);
         Thread suggestionThread = new Thread(suggestionSearchRunnable);
         suggestionThread.start();
+    }
+
+    private void start(){
+        String query = "빅히스토리";
+        Activity a = getActivity();
+        try {
+            searchQuery = query;
+            search(query);
+
+            // hide virtual keyboard
+            InputMethodManager inputManager =
+                    (InputMethodManager) a.getSystemService(Context.INPUT_METHOD_SERVICE);
+            try {
+                //noinspection ConstantConditions
+                inputManager.hideSoftInputFromWindow(
+                        a.getCurrentFocus().getWindowToken(), InputMethodManager.HIDE_NOT_ALWAYS);
+            } catch(NullPointerException e) {
+                e.printStackTrace();
+                ErrorActivity.reportError(a, e, null,
+                        a.findViewById(android.R.id.content),
+                        ErrorActivity.ErrorInfo.make(ErrorActivity.SEARCHED,
+                                ServiceList.getNameOfService(streamingServiceId),
+                                "Could not get widget with focus", R.string.general_error));
+            }
+            // clear focus
+            // 1. to not open up the keyboard after switching back to this
+            // 2. It's a workaround to a seeming bug by the Android OS it self, causing
+            //    onQueryTextSubmit to trigger twice when focus is not cleared.
+            // See: http://stackoverflow.com/questions/17874951/searchview-onquerytextsubmit-runs-twice-while-i-pressed-once
+            a.getCurrentFocus().clearFocus();
+        } catch(Exception e) {
+            e.printStackTrace();
+        }
+        View bg = a.findViewById(R.id.mainBG);
+        bg.setVisibility(View.GONE);
     }
 }

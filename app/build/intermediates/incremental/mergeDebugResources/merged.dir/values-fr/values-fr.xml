@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DÉSACTIVÉ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVÉ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="add">Nouveau</string>
+    <string name="audio">Audio</string>
+    <string name="autoplay_by_calling_app_summary">Lire automatiquement la vidéo lorsque NewPipe est appelée par une autre application.</string>
+    <string name="autoplay_by_calling_app_title">Lecture automatique quand ouvert depuis une autre application</string>
+    <string name="autoplay_through_intent_summary">Lire automatiquement une vidéo lorsqu’elle a été appelée depuis une autre application.</string>
+    <string name="autoplay_through_intent_title">Lecture automatique via Intent</string>
+    <string name="background_player_name">Lecteur NewPipe en arrière-plan</string>
+    <string name="background_player_playing_toast">Lecture en arrière-plan</string>
+    <string name="blocked_by_gema">Bloqué par GEMA.</string>
+    <string name="cancel">Annuler</string>
+    <string name="checksum">Somme de contrôle</string>
+    <string name="choose_browser">Choisir un navigateur </string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Activer"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas activé les services Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Activer les services Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre téléphone."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre tablette."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Installer les services Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Erreur liée aux services Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"L\'application <ns1:g id="APP_NAME">%1$s</ns1:g> rencontre des problèmes avec les services Google Play. Si le problème persiste, veuillez contacter le développeur pour obtenir de l\'aide."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> dépend des services Google Play, qui ne sont pas compatibles avec votre appareil. Veuillez contacter le fabricant pour obtenir de l\'aide."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Services Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Mettre à jour"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas tant que vous n\'aurez pas mis à jour les services Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Mettre à jour les services Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ne fonctionnera pas sans les services Google Play, qui sont en cours de mise à jour."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Mise à jour des services Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"La nouvelle version des services Google Play est nécessaire. Elle sera bientôt installée automatiquement."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ouvrir sur le téléphone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Se connecter"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Se connecter avec Google"</string>
+    <string name="content">Contenu</string>
+    <string name="content_not_available">Contenu non disponible.</string>
+    <string name="could_not_get_stream">Impossible d\'obtenir un flux.</string>
+    <string name="could_not_load_thumbnails">Impossible de charger toutes les miniatures</string>
+    <string name="could_not_setup_download_menu">Impossible de mettre en place le menu de téléchargement.</string>
+    <string name="dark_theme_title">Sombre</string>
+    <string name="default_audio_format_title">Format audio par défaut</string>
+    <string name="default_resolution_title">Définition par défaut</string>
+    <string name="delete">Supprimer</string>
+    <string name="detail_dislikes_img_view_description">Je n’aime pas</string>
+    <string name="detail_likes_img_view_description">J’aime</string>
+    <string name="detail_thumbnail_view_description">Miniature d’aperçu vidéo</string>
+    <string name="detail_uploader_thumbnail_view_description">Miniature de l’avatar de l’utilisateur</string>
+    <string name="did_you_mean">Vouliez-vous dire : %1$s ?</string>
+    <string name="download">Télécharger</string>
+    <string name="download_dialog_title">Télécharger</string>
+    <string name="download_path_audio_dialog_title">Entrer le chemin de téléchargement des fichiers audio.</string>
+    <string name="download_path_audio_summary">Chemin de stockage des fichiers audio téléchargés</string>
+    <string name="download_path_audio_title">Chemin de téléchargement de l\'audio</string>
+    <string name="download_path_dialog_title">Entrer le chemin de téléchargement des vidéos</string>
+    <string name="download_path_summary">Chemin de stockage des vidéos téléchargées.</string>
+    <string name="download_path_title">Chemin de téléchargement</string>
+    <string name="downloads">Téléchargements</string>
+    <string name="downloads_title">Téléchargements</string>
+    <string name="duration_live">En direct</string>
+    <string name="enable_background_audio">Lire en arrière-plan</string>
+    <string name="err_dir_create">Impossible de créer le répertoire de téléchargement « %1$s »</string>
+    <string name="error_details_headline">Détails :</string>
+    <string name="error_drm_not_supported">Contenu protégé non supporté par les API antérieures à la version 18</string>
+    <string name="error_drm_unknown">Une erreur DRM s\'est produite</string>
+    <string name="error_drm_unsupported_scheme">Cet appareil ne supporte pas le système DRM requis</string>
+    <string name="error_instantiating_decoder">Impossible d\'instancier le décodeur <ns1:g id="decoder_name">%1$s</ns1:g></string>
+    <string name="error_no_decoder">Cet appareil ne fournit pas de décodeur pour <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_no_secure_decoder">Cet appareil ne fournit pas de décodeur sécurisé pour <ns1:g id="mime_type">%1$s</ns1:g></string>
+    <string name="error_querying_decoders">Impossible d\'accéder aux décodeurs de l\'appareil</string>
+    <string name="error_report_button_text">Signaler l\'erreur par e-mail</string>
+    <string name="error_report_title">Rapport d\'erreur</string>
+    <string name="error_snackbar_action">SIGNALER</string>
+    <string name="error_snackbar_message">Désolé, des erreurs se sont produites.</string>
+    <string name="finish">OK</string>
+    <string name="general_error">Erreur</string>
+    <string name="info_dir_created">Répertoire de téléchargement « %1$s » créé</string>
+    <string name="info_requested_stream_lbl">Flux demandé :</string>
+    <string name="info_searched_lbl">Recherché :</string>
+    <string name="install">Installer</string>
+    <string name="installeKore">Installer Kore</string>
+    <string name="kore_not_found">L’application Kore est introuvable. Installer Kore ?</string>
+    <string name="light_parsing_error">Impossible d\'analyser le site complètement.</string>
+    <string name="light_theme_title">Clair</string>
+    <string name="list_thumbnail_view_description">Miniature d’aperçu vidéo</string>
+    <string name="live_streams_not_supported">Il s\'agit d\'un direct. Non supporté pour le moment.</string>
+    <string name="loading">Chargement</string>
+    <string name="logging">Connexion</string>
+    <string name="logging_normal">Normal</string>
+    <string name="logging_verbose">Verbeux</string>
+    <string name="m4a_description">m4a — meilleure qualité</string>
+    <string name="main_bg_subtitle">Faites une recherche pour commencer</string>
+    <string name="msg_copied">Copié dans le presse-papier.</string>
+    <string name="msg_error">Erreur</string>
+    <string name="msg_exists">Fichier déjà existant</string>
+    <string name="msg_fetch_filename">Récupérer le nom du fichier</string>
+    <string name="msg_name">Nom du fichier</string>
+    <string name="msg_running">Téléchargement NewPipe</string>
+    <string name="msg_running_detail">Toucher pour plus de détails</string>
+    <string name="msg_server_unsupported">Serveur non supporté</string>
+    <string name="msg_threads">Threads</string>
+    <string name="msg_url">URL de téléchargement</string>
+    <string name="msg_url_malform">URL malformée ou internet indisponible</string>
+    <string name="msg_wait">Veuillez patienter...</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="next_video_title">Vidéo suivante</string>
+    <string name="no_available_dir">Sélectionner un répertoire de téléchargement disponible.</string>
+    <string name="no_player_found">Aucun lecteur de flux réseau trouvé. Installer VLC ?</string>
+    <string name="off">[désactivé]</string>
+    <string name="open_in_browser">Ouvrir dans le navigateur</string>
+    <string name="parsing_error">Impossible d\'analyser le site web.</string>
+    <string name="pause">Pause</string>
+    <string name="play_audio">Audio</string>
+    <string name="play_btn_text">Lire</string>
+    <string name="play_with_kodi_title">Lire avec Kodi</string>
+    <string name="report_error">Signaler une erreur</string>
+    <string name="retry">Réessayer</string>
+    <string name="screen_rotation">rotation</string>
+    <string name="search">Rechercher</string>
+    <string name="search_language_title">Langue préférée du contenu</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Rechercher"</string>
+    <string name="search_page">"Numéro de la page de recherche : "</string>
+    <string name="settings">Paramètres</string>
+    <string name="settings_activity_title">Paramètres</string>
+    <string name="settings_category_appearance_title">Apparence</string>
+    <string name="settings_category_other_title">Autre</string>
+    <string name="settings_category_video_audio_title">Vidéo et audio</string>
+    <string name="settings_title">Paramètres</string>
+    <string name="share">Partager</string>
+    <string name="share_dialog_title">Partager avec</string>
+    <string name="show_age_restricted_content_title">Afficher le contenu soumis à une restriction d\'âge</string>
+    <string name="show_next_and_similar_title">Afficher les vidéos suivantes et similaires</string>
+    <string name="show_play_with_kodi_summary">Afficher une option pour lire la vidéo via la médiathèque Kodi.</string>
+    <string name="show_play_with_kodi_title">Afficher l’option « Lire avec Kodi »</string>
+    <string name="similar_videos_btn_text">Vidéos similaires</string>
+    <string name="sorry_string">Désolé, une erreur inattendue s\'est produite.</string>
+    <string name="start">Lire</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="storage_permission_denied">Autorisation d\'accès au stockage refusée</string>
+    <string name="switch_mode">Commuter entre l\'affichage liste et grille</string>
+    <string name="text">Texte</string>
+    <string name="theme_title">Thème</string>
+    <string name="upload_date_text">Ajoutée le %1$s</string>
+    <string name="url_not_supported_toast">URL non pris en charge</string>
+    <string name="useExternalPlayerTitle">Utiliser un lecteur externe</string>
+    <string name="use_exoplayer_summary">Expérimental</string>
+    <string name="use_exoplayer_title">Utiliser ExoPlayer</string>
+    <string name="use_external_audio_player_title">Utiliser un lecteur audio externe</string>
+    <string name="use_external_video_player_title">Utiliser un lecteur vidéo externe</string>
+    <string name="use_tor_summary">(Expérimental) Rediriger le trafic de téléchargement via Tor pour plus de confidentialité (streaming non supporté pour le moment).</string>
+    <string name="use_tor_title">Utiliser Tor</string>
+    <string name="user_report">Rapport utilisateur</string>
+    <string name="video">Vidéo</string>
+    <string name="video_is_age_restricted">Cette vidéo est soumise à une restriction d\'âge. Autoriser le contenu restreint dans les paramètres avant.</string>
+    <string name="view">Lire</string>
+    <string name="view_count_text">%1$s vues</string>
+    <string name="webm_description">WebM — format libre</string>
+    <string name="what_device_headline">Information :</string>
+    <string name="what_happened_headline">Ce qui s\'est passé :</string>
+    <string name="your_comment">Votre commentaire (en anglais) :</string>
+    <string name="youtube_signature_decryption_error">Erreur lors du décryptage du lien.</string>
+</resources>

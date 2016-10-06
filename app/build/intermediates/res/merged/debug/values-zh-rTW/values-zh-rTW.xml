@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"瀏覽首頁"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"向上瀏覽"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多選項"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"選擇應用程式"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"關閉"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"開啟"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜尋…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查詢"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜尋查詢"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜尋"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查詢"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"語音搜尋"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="autoplay_through_intent_summary">當另一個程式發出要求時自動播放影片。</string>
+    <string name="autoplay_through_intent_title">刻意自動播放</string>
+    <string name="background_player_name">NewPipe 背景播放器</string>
+    <string name="background_player_playing_toast">背景播放</string>
+    <string name="cancel">取消</string>
+    <string name="choose_browser">選擇瀏覽器</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"啟用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必須啟用 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"啟用 Google Play 服務"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安裝"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"您的手機並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"您的平板電腦並未安裝 Google Play 服務，因此無法執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"取得 Google Play 服務"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play 服務發生錯誤"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」無法存取 Google Play 服務。如果問題無法解決，請與開發人員聯絡，向對方尋求協助。"</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」需要搭配 Google Play 服務才能運作，但您的裝置並不支援相關服務。請與您的裝置製造商聯絡以尋求協助。"</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Google Play 服務"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必須更新 Google Play 服務，才能執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服務"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"執行「<ns1:g id="APP_NAME">%1$s</ns1:g>」所需的 Google Play 服務正在更新。"</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Google Play 服務更新中"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必須使用新版 Google Play 服務。該服務稍後就會自動更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手機上開啟"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登入"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帳戶登入"</string>
+    <string name="dark_theme_title">暗色系</string>
+    <string name="default_audio_format_title">預設聲音檔案格式</string>
+    <string name="default_resolution_title">預設解析度</string>
+    <string name="detail_dislikes_img_view_description">不喜歡</string>
+    <string name="detail_likes_img_view_description">喜歡</string>
+    <string name="detail_thumbnail_view_description">影片預覽縮圖</string>
+    <string name="detail_uploader_thumbnail_view_description">發佈者的個人頭像縮圖</string>
+    <string name="did_you_mean">"您是不是要查： "</string>
+    <string name="download">下載</string>
+    <string name="download_dialog_title">下載</string>
+    <string name="download_path_audio_dialog_title">輸入聲音檔案的下載路徑。</string>
+    <string name="download_path_audio_summary">存放已下載聲音的路徑。</string>
+    <string name="download_path_audio_title">聲音下載路徑</string>
+    <string name="download_path_dialog_title">輸入影片的下載路徑</string>
+    <string name="download_path_summary">存放已下載影片的路徑。</string>
+    <string name="download_path_title">影片下載路徑</string>
+    <string name="err_dir_create">未能建立下載路徑「%1$s」</string>
+    <string name="info_dir_created">已建立下載路徑「%1$s」</string>
+    <string name="install">安裝</string>
+    <string name="kore_not_found">找不到 Kore 應用程式，您要安裝 Kore 嗎？</string>
+    <string name="light_theme_title">明亮色系</string>
+    <string name="list_thumbnail_view_description">影片預覽縮圖</string>
+    <string name="loading">加載中</string>
+    <string name="m4a_description">m4a — 更佳畫質</string>
+    <string name="network_error">網絡錯誤</string>
+    <string name="next_video_title">下一部影片</string>
+    <string name="no_player_found">找不到任何串流播放器，您要否安裝 VLC？</string>
+    <string name="open_in_browser">在瀏覽器開啟</string>
+    <string name="play_audio">聲音</string>
+    <string name="play_btn_text">播放</string>
+    <string name="play_with_kodi_title">用 Kodi 播放</string>
+    <string name="screen_rotation">旋轉</string>
+    <string name="search">搜尋</string>
+    <string name="search_language_title">內容位置</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜尋"</string>
+    <string name="search_page">"搜尋頁面： "</string>
+    <string name="settings">設定</string>
+    <string name="settings_activity_title">設定</string>
+    <string name="settings_category_appearance_title">外觀</string>
+    <string name="settings_category_other_title">其他</string>
+    <string name="settings_category_video_audio_title">影片和聲音</string>
+    <string name="share">分享</string>
+    <string name="share_dialog_title">分享影片</string>
+    <string name="show_next_and_similar_title">顯示下一部和相關的影片</string>
+    <string name="show_play_with_kodi_summary">顯示以 Kodi 媒體中心播放影片的選項。</string>
+    <string name="show_play_with_kodi_title">顯示「用 Kodi 播放」的選項</string>
+    <string name="similar_videos_btn_text">相關影片</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="theme_title">主題</string>
+    <string name="upload_date_text">發佈日期：%1$s</string>
+    <string name="url_not_supported_toast">不支援此網址</string>
+    <string name="use_external_audio_player_title">使用外置聲音播放器</string>
+    <string name="use_external_video_player_title">使用外置影片播放器</string>
+    <string name="use_tor_summary">強迫下載流量通過 Tor 以加強隱私 (暫時不支援串流影片)</string>
+    <string name="use_tor_title">使用 Tor</string>
+    <string name="view_count_text">觀看次數：%1$s</string>
+    <string name="webm_description">WebM — 開放格式</string>
+</resources>

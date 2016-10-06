@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" translatable="false">NewPipe</string>
+    <string name="app_name" translatable="false">BigHistory</string>
     <string name="main_bg_subtitle">Tap search to get started</string>
     <string name="background_player_name">NewPipe Background Player</string>
     <string name="title_videoitem_detail" translatable="false">NewPipe</string>
@@ -62,6 +62,11 @@
     <string-array name="download_options_no_video">
         <item>Audio</item>
     </string-array>
+
+
+    <string name="settings_info">Info</string>
+    <string name="settings_version">Version</string>
+    <string name="settings_license">OSS Notice</string>
 
     <string name="next_video_title">Next video</string>
     <string name="show_next_and_similar_title">Show next and similar videos</string>
@@ -269,7 +274,11 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
-
     <!-- End of GigaGet's Strings -->
+
+
+    <string name="action_page1">Bighistory Project</string>
+    <string name="action_page2">IBHA</string>
+
 
 </resources>

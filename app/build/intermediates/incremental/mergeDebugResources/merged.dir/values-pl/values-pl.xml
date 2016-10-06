@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"WYŁ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"WŁ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <string name="add">Nowa misja</string>
+    <string name="audio">Audio</string>
+    <string name="autoplay_by_calling_app_summary">Automatycznie odtwórz video kiedy NewPipe zostanie wywołany z innej aplikacji.</string>
+    <string name="autoplay_by_calling_app_title">Autoodtwarzanie po wezwaniu z innej aplikacji</string>
+    <string name="background_player_name">Odtwarzacz w tle NewPipe</string>
+    <string name="background_player_playing_toast">Odtwarzanie w tle</string>
+    <string name="blocked_by_gema">Zablokowane przez GEMA.</string>
+    <string name="cancel">Anuluj</string>
+    <string name="checksum">Suma kontrolna</string>
+    <string name="choose_browser">Wybierz przeglądarkę</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Włącz"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie włączysz Usług Google Play."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Włącz Usługi Google Play"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Zainstaluj"</string>
+    <string msgid="1666261992894286769" name="common_google_play_services_install_text_phone">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na telefonie Usług Google Play."</string>
+    <string msgid="1701766622451829291" name="common_google_play_services_install_text_tablet">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zainstalujesz na tablecie Usług Google Play."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Pobierz Usługi Google Play"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Błąd Usług Google Play"</string>
+    <string msgid="9089562800660647919" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ma problem z dostępem do usług Google Play. Jeśli problem będzie się utrzymywać, skontaktuj się z programistą, by uzyskać pomoc."</string>
+    <string msgid="1064791666906610763" name="common_google_play_services_unsupported_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> wymaga Usług Google Play, a nie są one obsługiwane przez Twoje urządzenie. Skontaktuj się z producentem, by uzyskać pomoc."</string>
+    <string msgid="539866123733096737" name="common_google_play_services_unsupported_title">"Usługi Google Play"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Aktualizuj"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać, jeśli nie zaktualizujesz Usług Google Play."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Zaktualizuj Usługi Google Play"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Aplikacja <ns1:g id="APP_NAME">%1$s</ns1:g> nie będzie działać bez Usług Google Play, które są obecnie aktualizowane."</string>
+    <string msgid="2270671469198016014" name="common_google_play_services_updating_title">"Trwa aktualizowanie Usług Google Play"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Wymagana jest nowa wersja Usług Google Play. Wkrótce nastąpi automatyczna aktualizacja."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Otwórz na telefonie"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Zaloguj się"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Zaloguj się przez Google"</string>
+    <string name="content">Zawartość</string>
+    <string name="content_not_available">Zawartość niedostępna.</string>
+    <string name="could_not_get_stream">Nie można otrzymać żadnego strumienia.</string>
+    <string name="could_not_load_thumbnails">Nie można załadować wszystkich miniatur</string>
+    <string name="could_not_setup_download_menu">Nie można ustawić menu pobierania.</string>
+    <string name="dark_theme_title">Ciemny</string>
+    <string name="default_audio_format_title">Domyślny format audio</string>
+    <string name="default_resolution_title">Domyślna rozdzielczość</string>
+    <string name="delete">Usuń</string>
+    <string name="detail_dislikes_img_view_description">Niepolubienia</string>
+    <string name="detail_likes_img_view_description">Polubienia</string>
+    <string name="detail_thumbnail_view_description">Miniatura filmu</string>
+    <string name="detail_uploader_thumbnail_view_description">Miniatura zdjęcia uploadera</string>
+    <string name="did_you_mean">Miałeś na myśli: %1$s ?</string>
+    <string name="download">Pobierz</string>
+    <string name="download_dialog_title">Pobieranie</string>
+    <string name="download_path_audio_dialog_title">Podaj ścieżkę zapisu audio.</string>
+    <string name="download_path_audio_summary">Ścieżka zapisu pobranego audio</string>
+    <string name="download_path_audio_title">Ścieżka zapisu audio</string>
+    <string name="download_path_dialog_title">Podaj ścieżkę zapisu video</string>
+    <string name="download_path_summary">Ścieżka zapisu pobranego video.</string>
+    <string name="download_path_title">Ścieżka zapisu video</string>
+    <string name="downloads">Pobrania</string>
+    <string name="downloads_title">Pobrania</string>
+    <string name="duration_live">Na żywo</string>
+    <string name="enable_background_audio">Odtwarzaj w tle</string>
+    <string name="err_dir_create">Nie można utworzyć katalogu pobierania \'%1$s\'</string>
+    <string name="error_details_headline">Szczegóły:</string>
+    <string name="error_drm_not_supported">Zabezpieczona zawartość nie jest wspierana w poziomach API mniejszych od 18</string>
+    <string name="error_drm_unknown">Wystąpił nieznany błąd DRM</string>
+    <string name="error_drm_unsupported_scheme">To urządzenie nie wspiera wymaganego schematu DRM</string>
+    <string name="error_report_button_text">Zgłoś błąd przez email</string>
+    <string name="error_report_title">Raport błędu</string>
+    <string name="error_snackbar_action">RAPORT</string>
+    <string name="error_snackbar_message">Przepraszamy, wystąpiły pewne błędy.</string>
+    <string name="finish">OK</string>
+    <string name="general_error">Błąd</string>
+    <string name="info_dir_created">Utworzono katalog pobierania \'%1$s\'</string>
+    <string name="info_labels">Co:\\nŻądanie:\\nJęzyk zawartości:\\nUsługa:\\nCzas GMT:\\nVersion:\\nWersja systemu:\\nGlobalny zakres IP:</string>
+    <string name="info_requested_stream_lbl">Żądany strumień:</string>
+    <string name="info_searched_lbl">Szukane dla:</string>
+    <string name="install">Instaluj</string>
+    <string name="kore_not_found">Aplikacja Kore nie znaleziona. Zainstalować Kore?</string>
+    <string name="light_parsing_error">Nie można całkowicie zanalizować strony.</string>
+    <string name="light_theme_title">Jasny</string>
+    <string name="list_thumbnail_view_description">Miniatura filmu</string>
+    <string name="live_streams_not_supported">To jest film NA ŻYWO. Te nie są jeszcze wspierane.</string>
+    <string name="loading">Ładowanie</string>
+    <string name="logging">Logowanie</string>
+    <string name="logging_normal">Normalny</string>
+    <string name="logging_verbose">Szczegółowy</string>
+    <string name="m4a_description">m4a — lepsza jakość</string>
+    <string name="main_bg_subtitle">Wciśnij wyszukaj, aby rozpocząć</string>
+    <string name="msg_copied">Skopiowano do schowka.</string>
+    <string name="msg_error">Błąd</string>
+    <string name="msg_exists">Plik już istnieje</string>
+    <string name="msg_fetch_filename">Wydobądź nazwę pliku</string>
+    <string name="msg_name">Nazwa pliku</string>
+    <string name="msg_running">Pobieranie NewPipe</string>
+    <string name="msg_running_detail">Dotknij dla szczegółów</string>
+    <string name="msg_server_unsupported">Serwer niewspierany</string>
+    <string name="msg_threads">Wątki</string>
+    <string name="msg_url">URL pobierania</string>
+    <string name="msg_url_malform">Zniekształcony URL lub brak internetu</string>
+    <string name="msg_wait">Proszę czekać...</string>
+    <string name="network_error">Błąd sieci</string>
+    <string name="next_video_title">Następne video</string>
+    <string name="no_available_dir">Proszę wybrać dostępny katalog pobierania.</string>
+    <string name="no_player_found">Nie znaleziono odtwarzacza strumieni. Zainstalować VLC?</string>
+    <string name="off">[wył]</string>
+    <string name="open_in_browser">Otwórz w przeglądarce</string>
+    <string name="parsing_error">Nie można zanalizować strony.</string>
+    <string name="pause">Pauza</string>
+    <string name="play_audio">Audio</string>
+    <string name="play_btn_text">Odtwórz</string>
+    <string name="play_with_kodi_title">Odtwórz w Kodi</string>
+    <string name="report_error">Zgłoś błąd</string>
+    <string name="retry">Ponów</string>
+    <string name="screen_rotation">rotacja</string>
+    <string name="search">Wyszukaj</string>
+    <string name="search_language_title">Preferowany język zawartości</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Szukaj"</string>
+    <string name="search_page">"Szukana strona: "</string>
+    <string name="settings">Ustawienia</string>
+    <string name="settings_activity_title">Ustawienia</string>
+    <string name="settings_category_appearance_title">Wygląd</string>
+    <string name="settings_category_other_title">Inne</string>
+    <string name="settings_category_video_audio_title">Video i Audio</string>
+    <string name="settings_title">Ustawienia</string>
+    <string name="share">Udostępnij</string>
+    <string name="share_dialog_title">Udostępnij przez</string>
+    <string name="show_age_restricted_content_title">Pokaż zawartość z ograniczeniem wieku</string>
+    <string name="show_next_and_similar_title">Pokaż następne i podobne filmy</string>
+    <string name="show_play_with_kodi_summary">Wyświetl opcję odtwarzania video przez centrum multimedii Kodi.</string>
+    <string name="show_play_with_kodi_title">Pokaż opcję \"Odtwórz z Kodi\"</string>
+    <string name="similar_videos_btn_text">Podobne filmy</string>
+    <string name="sorry_string">Przepraszamy, to nie powinno mieć miejsca.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_permission_denied">Pozwolenie dostępu do pamięci zostało zabronione</string>
+    <string name="switch_mode">Przełącz pomiędzy listą, a siatką</string>
+    <string name="text">Tekst</string>
+    <string name="theme_title">Motyw</string>
+    <string name="upload_date_text">Opublikowany w %1$s</string>
+    <string name="url_not_supported_toast">URL nie obsługiwany</string>
+    <string name="use_exoplayer_summary">Experymentalne</string>
+    <string name="use_exoplayer_title">Użyj ExoPlayer</string>
+    <string name="use_external_audio_player_title">Użyj zewnętrznego odtwarzacza audio</string>
+    <string name="use_external_video_player_title">Użyj zewnętrznego odtwarzacza video</string>
+    <string name="use_tor_title">Użyj Tor</string>
+    <string name="user_report">Raport użytkownika</string>
+    <string name="video">Video</string>
+    <string name="video_is_age_restricted">Film jest ograniczony wiekowo. Aktywuj najpierw filmy ograniczone wiekowo w ustawieniach.</string>
+    <string name="view">Widok</string>
+    <string name="view_count_text">%1$s wyświetleń</string>
+    <string name="webm_description">WebM — darmowy format</string>
+    <string name="what_device_headline">Info:</string>
+    <string name="what_happened_headline">Co się stało:</string>
+    <string name="your_comment">Twój komentarz (po angielsku):</string>
+    <string name="youtube_signature_decryption_error">Nie można zdeszyfrować sygnatury url filmu.</string>
+</resources>

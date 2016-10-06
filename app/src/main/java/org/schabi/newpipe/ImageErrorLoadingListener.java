@@ -8,7 +8,7 @@ import com.nostra13.universalimageloader.core.assist.FailReason;
 import com.nostra13.universalimageloader.core.listener.ImageLoadingListener;
 
 import org.schabi.newpipe.report.ErrorActivity;
-import org.schabi.newpipe.extractor.NewPipe;
+import org.schabi.newpipe.extractor.ServiceList;
 
 /**
  * Created by Christian Schabesberger on 01.08.16.
@@ -50,7 +50,7 @@ public class ImageErrorLoadingListener implements ImageLoadingListener {
         ErrorActivity.reportError(activity,
                 failReason.getCause(), null, rootView,
                 ErrorActivity.ErrorInfo.make(ErrorActivity.LOAD_IMAGE,
-                        NewPipe.getNameOfService(serviceId), imageUri,
+                        ServiceList.getNameOfService(serviceId), imageUri,
                         R.string.could_not_load_image));
     }
 

@@ -1,0 +1,3199 @@
+[
+    {
+        "outputFile": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 115,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 115,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 107,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 171,
+                        "endColumn": 107,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 122,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 122,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 101,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 101,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 107,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 504,
+                        "endColumn": 107,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 85,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 612,
+                        "endColumn": 85,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 108,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 108,
+                        "endOffset": 802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 118,
+                    "endOffset": 971
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 807,
+                        "endColumn": 118,
+                        "endOffset": 921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 976,
+                    "endColumn": 77,
+                    "endOffset": 1049
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 77,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1054,
+                    "endColumn": 76,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 76,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 81,
+                    "endOffset": 1208
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 81,
+                        "endOffset": 1158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1213,
+                    "endColumn": 108,
+                    "endOffset": 1317
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 108,
+                        "endOffset": 1267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1322,
+                    "endColumn": 108,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1272,
+                        "endColumn": 108,
+                        "endOffset": 1376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 98,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1381,
+                        "endColumn": 98,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 108,
+                    "endOffset": 1634
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 108,
+                        "endOffset": 1584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1639,
+                    "endColumn": 110,
+                    "endOffset": 1745
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endColumn": 110,
+                        "endOffset": 1695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1750,
+                    "endColumn": 107,
+                    "endOffset": 1853
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1700,
+                        "endColumn": 107,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1858,
+                    "endColumn": 122,
+                    "endOffset": 1976
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1808,
+                        "endColumn": 122,
+                        "endOffset": 1926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1981,
+                    "endColumn": 95,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1931,
+                        "endColumn": 95,
+                        "endOffset": 2022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endColumn": 42,
+                    "endOffset": 2115
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 7857,
+                        "endColumn": 42,
+                        "endOffset": 7895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2120,
+                    "endColumn": 39,
+                    "endOffset": 2155
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6834,
+                        "endColumn": 39,
+                        "endOffset": 6869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2160,
+                    "endColumn": 138,
+                    "endOffset": 2294
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1959,
+                        "endColumn": 138,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2299,
+                    "endColumn": 103,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1855,
+                        "endColumn": 103,
+                        "endOffset": 1954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 75,
+                    "endOffset": 2474
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 75,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2479,
+                    "endColumn": 77,
+                    "endOffset": 2552
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3576,
+                        "endColumn": 77,
+                        "endOffset": 3649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2557,
+                    "endColumn": 67,
+                    "endOffset": 2620
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4792,
+                        "endColumn": 67,
+                        "endOffset": 4855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2625,
+                    "endColumn": 41,
+                    "endOffset": 2662
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 41,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2667,
+                    "endColumn": 51,
+                    "endOffset": 2714
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 7804,
+                        "endColumn": 51,
+                        "endOffset": 7851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2719,
+                    "endColumn": 63,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endColumn": 63,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 105,
+                    "endOffset": 2884
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 340,
+                        "endColumn": 105,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endColumn": 199,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 199,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 123,
+                    "endOffset": 3208
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 646,
+                        "endColumn": 123,
+                        "endOffset": 765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3213,
+                    "endColumn": 111,
+                    "endOffset": 3320
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 770,
+                        "endColumn": 111,
+                        "endOffset": 877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3325,
+                    "endColumn": 224,
+                    "endOffset": 3545
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 224,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3550,
+                    "endColumn": 224,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1107,
+                        "endColumn": 224,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3775,
+                    "endColumn": 126,
+                    "endOffset": 3897
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1332,
+                        "endColumn": 126,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3902,
+                    "endColumn": 127,
+                    "endOffset": 4025
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 127,
+                        "endOffset": 1582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4030,
+                    "endColumn": 262,
+                    "endOffset": 4288
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 262,
+                        "endOffset": 601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4293,
+                    "endColumn": 269,
+                    "endOffset": 4558
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1587,
+                        "endColumn": 269,
+                        "endOffset": 1852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4563,
+                    "endColumn": 121,
+                    "endOffset": 4680
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1857,
+                        "endColumn": 121,
+                        "endOffset": 1974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4685,
+                    "endColumn": 110,
+                    "endOffset": 4791
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1979,
+                        "endColumn": 110,
+                        "endOffset": 2085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4796,
+                    "endColumn": 205,
+                    "endOffset": 4997
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2090,
+                        "endColumn": 205,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 5002,
+                    "endColumn": 129,
+                    "endOffset": 5127
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2296,
+                        "endColumn": 129,
+                        "endOffset": 2421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 5132,
+                    "endColumn": 217,
+                    "endOffset": 5345
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2426,
+                        "endColumn": 217,
+                        "endOffset": 2639
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 5350,
+                    "endColumn": 138,
+                    "endOffset": 5484
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2644,
+                        "endColumn": 138,
+                        "endOffset": 2778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 190,
+                    "endOffset": 5675
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2783,
+                        "endColumn": 190,
+                        "endOffset": 2969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5680,
+                    "endColumn": 98,
+                    "endOffset": 5774
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2974,
+                        "endColumn": 98,
+                        "endOffset": 3068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5779,
+                    "endColumn": 95,
+                    "endOffset": 5870
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3073,
+                        "endColumn": 95,
+                        "endOffset": 3164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5875,
+                    "endColumn": 112,
+                    "endOffset": 5983
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/res/values-pl/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3169,
+                        "endColumn": 112,
+                        "endOffset": 3277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 5988,
+                    "endColumn": 45,
+                    "endOffset": 6029
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3704,
+                        "endColumn": 45,
+                        "endOffset": 3745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 6034,
+                    "endColumn": 72,
+                    "endOffset": 6102
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4719,
+                        "endColumn": 72,
+                        "endOffset": 4787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 6107,
+                    "endColumn": 87,
+                    "endOffset": 6190
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 5059,
+                        "endColumn": 87,
+                        "endOffset": 5142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 6195,
+                    "endColumn": 93,
+                    "endOffset": 6284
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4357,
+                        "endColumn": 93,
+                        "endOffset": 4446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 6289,
+                    "endColumn": 92,
+                    "endOffset": 6377
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4860,
+                        "endColumn": 92,
+                        "endOffset": 4948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 6382,
+                    "endColumn": 51,
+                    "endOffset": 6429
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2835,
+                        "endColumn": 51,
+                        "endOffset": 2882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 6434,
+                    "endColumn": 76,
+                    "endOffset": 6506
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2581,
+                        "endColumn": 76,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 6511,
+                    "endColumn": 75,
+                    "endOffset": 6582
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2098,
+                        "endColumn": 75,
+                        "endOffset": 2169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 6587,
+                    "endColumn": 39,
+                    "endOffset": 6622
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 7764,
+                        "endColumn": 39,
+                        "endOffset": 7799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6627,
+                    "endColumn": 78,
+                    "endOffset": 6701
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6312,
+                        "endColumn": 78,
+                        "endOffset": 6386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6706,
+                    "endColumn": 72,
+                    "endOffset": 6774
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 6239,
+                        "endColumn": 72,
+                        "endOffset": 6307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6779,
+                    "endColumn": 77,
+                    "endOffset": 6852
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 6062,
+                        "endColumn": 77,
+                        "endOffset": 6135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6857,
+                    "endColumn": 98,
+                    "endOffset": 6951
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 6140,
+                        "endColumn": 98,
+                        "endOffset": 6234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6956,
+                    "endColumn": 64,
+                    "endOffset": 7016
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 64,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 7021,
+                    "endColumn": 44,
+                    "endOffset": 7061
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 371,
+                        "endColumn": 44,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7066,
+                    "endColumn": 60,
+                    "endOffset": 7122
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2940,
+                        "endColumn": 60,
+                        "endOffset": 2996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7127,
+                    "endColumn": 88,
+                    "endOffset": 7211
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1765,
+                        "endColumn": 88,
+                        "endOffset": 1849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7216,
+                    "endColumn": 86,
+                    "endOffset": 7298
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1678,
+                        "endColumn": 86,
+                        "endOffset": 1760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7303,
+                    "endColumn": 74,
+                    "endOffset": 7373
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1603,
+                        "endColumn": 74,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7378,
+                    "endColumn": 81,
+                    "endOffset": 7455
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1520,
+                        "endColumn": 81,
+                        "endOffset": 1597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7460,
+                    "endColumn": 81,
+                    "endOffset": 7537
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 81,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7542,
+                    "endColumn": 68,
+                    "endOffset": 7606
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 68,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7611,
+                    "endColumn": 46,
+                    "endOffset": 7653
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4042,
+                        "endColumn": 46,
+                        "endOffset": 4084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7658,
+                    "endColumn": 52,
+                    "endOffset": 7706
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4089,
+                        "endColumn": 52,
+                        "endOffset": 4137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 7711,
+                    "endColumn": 49,
+                    "endOffset": 7756
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3992,
+                        "endColumn": 49,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 7761,
+                    "endColumn": 67,
+                    "endOffset": 7824
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 6726,
+                        "endColumn": 64,
+                        "endOffset": 6789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7829,
+                    "endColumn": 90,
+                    "endOffset": 7915
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6554,
+                        "endColumn": 90,
+                        "endOffset": 6640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7920,
+                    "endColumn": 61,
+                    "endOffset": 7977
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5922,
+                        "endColumn": 61,
+                        "endOffset": 5979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 7982,
+                    "endColumn": 127,
+                    "endOffset": 8105
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7145,
+                        "endColumn": 127,
+                        "endOffset": 7268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8110,
+                    "endColumn": 72,
+                    "endOffset": 8178
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7380,
+                        "endColumn": 72,
+                        "endOffset": 7448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8183,
+                    "endColumn": 106,
+                    "endOffset": 8285
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 7273,
+                        "endColumn": 106,
+                        "endOffset": 7375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8290,
+                    "endColumn": 75,
+                    "endOffset": 8361
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 5231,
+                        "endColumn": 75,
+                        "endOffset": 5302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8366,
+                    "endColumn": 59,
+                    "endOffset": 8421
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4196,
+                        "endColumn": 59,
+                        "endOffset": 4251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8426,
+                    "endColumn": 56,
+                    "endOffset": 8478
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 5395,
+                        "endColumn": 56,
+                        "endOffset": 5447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8483,
+                    "endColumn": 87,
+                    "endOffset": 8566
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 5307,
+                        "endColumn": 87,
+                        "endOffset": 5390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8571,
+                    "endColumn": 37,
+                    "endOffset": 8604
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7900,
+                        "endColumn": 37,
+                        "endOffset": 7933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8609,
+                    "endColumn": 46,
+                    "endOffset": 8651
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4257,
+                        "endColumn": 46,
+                        "endOffset": 4299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8656,
+                    "endColumn": 82,
+                    "endOffset": 8734
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6645,
+                        "endColumn": 82,
+                        "endOffset": 6723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8739,
+                    "endColumn": 147,
+                    "endOffset": 8882
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5572,
+                        "endColumn": 147,
+                        "endOffset": 5715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 8887,
+                    "endColumn": 70,
+                    "endOffset": 8953
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5779,
+                        "endColumn": 70,
+                        "endOffset": 5845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 8958,
+                    "endColumn": 58,
+                    "endOffset": 9012
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5720,
+                        "endColumn": 58,
+                        "endOffset": 5774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9017,
+                    "endColumn": 44,
+                    "endOffset": 9057
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 127,
+                        "endColumn": 44,
+                        "endOffset": 167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9062,
+                    "endColumn": 92,
+                    "endOffset": 9150
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2238,
+                        "endColumn": 92,
+                        "endOffset": 2326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9155,
+                    "endColumn": 88,
+                    "endOffset": 9239
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4630,
+                        "endColumn": 88,
+                        "endOffset": 4714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9244,
+                    "endColumn": 51,
+                    "endOffset": 9291
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2887,
+                        "endColumn": 51,
+                        "endOffset": 2934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9296,
+                    "endColumn": 75,
+                    "endOffset": 9367
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5986,
+                        "endColumn": 75,
+                        "endOffset": 6057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9372,
+                    "endColumn": 105,
+                    "endOffset": 9473
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4953,
+                        "endColumn": 105,
+                        "endOffset": 5054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9478,
+                    "endColumn": 45,
+                    "endOffset": 9519
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 45,
+                        "endOffset": 366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9524,
+                    "endColumn": 45,
+                    "endOffset": 9565
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6913,
+                        "endColumn": 45,
+                        "endOffset": 6954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9570,
+                    "endColumn": 51,
+                    "endOffset": 9617
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 6959,
+                        "endColumn": 51,
+                        "endOffset": 7006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9622,
+                    "endColumn": 55,
+                    "endOffset": 9673
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7011,
+                        "endColumn": 55,
+                        "endOffset": 7062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9678,
+                    "endColumn": 63,
+                    "endOffset": 9737
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2725,
+                        "endColumn": 63,
+                        "endOffset": 2784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9742,
+                    "endColumn": 76,
+                    "endOffset": 9814
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 11,
+                        "startOffset": 50,
+                        "endColumn": 83,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9819,
+                    "endColumn": 61,
+                    "endOffset": 9876
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 8664,
+                        "endColumn": 61,
+                        "endOffset": 8721
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9881,
+                    "endColumn": 42,
+                    "endOffset": 9919
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 8228,
+                        "endColumn": 42,
+                        "endOffset": 8266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9924,
+                    "endColumn": 56,
+                    "endOffset": 9976
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 8342,
+                        "endColumn": 56,
+                        "endOffset": 8394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9981,
+                    "endColumn": 67,
+                    "endOffset": 10044
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 8160,
+                        "endColumn": 67,
+                        "endOffset": 8223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 10049,
+                    "endColumn": 48,
+                    "endOffset": 10093
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 8065,
+                        "endColumn": 48,
+                        "endOffset": 8109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 10098,
+                    "endColumn": 58,
+                    "endOffset": 10152
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 8481,
+                        "endColumn": 58,
+                        "endOffset": 8535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 10157,
+                    "endColumn": 69,
+                    "endOffset": 10222
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 8540,
+                        "endColumn": 69,
+                        "endOffset": 8605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 10227,
+                    "endColumn": 70,
+                    "endOffset": 10293
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 8271,
+                        "endColumn": 70,
+                        "endOffset": 8337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 10298,
+                    "endColumn": 45,
+                    "endOffset": 10339
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 8114,
+                        "endColumn": 45,
+                        "endOffset": 8155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 10344,
+                    "endColumn": 50,
+                    "endOffset": 10390
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 8014,
+                        "endColumn": 50,
+                        "endOffset": 8060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 10395,
+                    "endColumn": 81,
+                    "endOffset": 10472
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 8399,
+                        "endColumn": 81,
+                        "endOffset": 8476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10477,
+                    "endColumn": 53,
+                    "endOffset": 10526
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 8610,
+                        "endColumn": 53,
+                        "endOffset": 8659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 10531,
+                    "endColumn": 52,
+                    "endOffset": 10579
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4304,
+                        "endColumn": 52,
+                        "endOffset": 4352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 10584,
+                    "endColumn": 59,
+                    "endOffset": 10639
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3001,
+                        "endColumn": 59,
+                        "endOffset": 3056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 10644,
+                    "endColumn": 87,
+                    "endOffset": 10727
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 8726,
+                        "endColumn": 87,
+                        "endOffset": 8809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 10732,
+                    "endColumn": 99,
+                    "endOffset": 10827
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 99,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 10832,
+                    "endColumn": 37,
+                    "endOffset": 10865
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7107,
+                        "endColumn": 37,
+                        "endOffset": 7140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 10870,
+                    "endColumn": 65,
+                    "endOffset": 10931
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 65,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 10936,
+                    "endColumn": 71,
+                    "endOffset": 11003
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4558,
+                        "endColumn": 71,
+                        "endOffset": 4625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 11008,
+                    "endColumn": 39,
+                    "endOffset": 11043
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 7685,
+                        "endColumn": 39,
+                        "endOffset": 7720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 11048,
+                    "endColumn": 44,
+                    "endOffset": 11088
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2536,
+                        "endColumn": 44,
+                        "endOffset": 2576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 11093,
+                    "endColumn": 49,
+                    "endOffset": 11138
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3654,
+                        "endColumn": 49,
+                        "endOffset": 3699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 11143,
+                    "endColumn": 63,
+                    "endOffset": 11202
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2174,
+                        "endColumn": 63,
+                        "endOffset": 2233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 11207,
+                    "endColumn": 51,
+                    "endOffset": 11254
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6442,
+                        "endColumn": 51,
+                        "endOffset": 6489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 11259,
+                    "endColumn": 39,
+                    "endOffset": 11294
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7067,
+                        "endColumn": 39,
+                        "endOffset": 7102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 11299,
+                    "endColumn": 51,
+                    "endOffset": 11346
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 51,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 11351,
+                    "endColumn": 43,
+                    "endOffset": 11390
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 416,
+                        "endColumn": 43,
+                        "endOffset": 455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 11395,
+                    "endColumn": 78,
+                    "endOffset": 11469
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3286,
+                        "endColumn": 78,
+                        "endOffset": 3360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 11474,
+                    "endColumn": 81,
+                    "endOffset": 11551
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2027,
+                        "endColumn": 81,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 11556,
+                    "endColumn": 58,
+                    "endOffset": 11610
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 58,
+                        "endOffset": 627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 11615,
+                    "endColumn": 47,
+                    "endOffset": 11658
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 460,
+                        "endColumn": 47,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 11663,
+                    "endColumn": 62,
+                    "endOffset": 11721
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 812,
+                        "endColumn": 62,
+                        "endOffset": 870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 11726,
+                    "endColumn": 69,
+                    "endOffset": 11791
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 3443,
+                        "endColumn": 69,
+                        "endOffset": 3508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 11796,
+                    "endColumn": 62,
+                    "endOffset": 11854
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3513,
+                        "endColumn": 62,
+                        "endOffset": 3571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 11859,
+                    "endColumn": 77,
+                    "endOffset": 11932
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3365,
+                        "endColumn": 77,
+                        "endOffset": 3438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 11937,
+                    "endColumn": 53,
+                    "endOffset": 11986
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4142,
+                        "endColumn": 53,
+                        "endOffset": 4191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 11991,
+                    "endColumn": 44,
+                    "endOffset": 12031
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 44,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 12036,
+                    "endColumn": 63,
+                    "endOffset": 12095
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 632,
+                        "endColumn": 63,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 12100,
+                    "endColumn": 99,
+                    "endOffset": 12195
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3750,
+                        "endColumn": 99,
+                        "endOffset": 3845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 12200,
+                    "endColumn": 86,
+                    "endOffset": 12282
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 3061,
+                        "endColumn": 86,
+                        "endOffset": 3143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 12287,
+                    "endColumn": 119,
+                    "endOffset": 12402
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2416,
+                        "endColumn": 119,
+                        "endOffset": 2531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 12407,
+                    "endColumn": 84,
+                    "endOffset": 12487
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2331,
+                        "endColumn": 84,
+                        "endOffset": 2411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 12492,
+                    "endColumn": 65,
+                    "endOffset": 12553
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3220,
+                        "endColumn": 65,
+                        "endOffset": 3281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 12558,
+                    "endColumn": 83,
+                    "endOffset": 12637
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 5147,
+                        "endColumn": 83,
+                        "endOffset": 5226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 12642,
+                    "endColumn": 100,
+                    "endOffset": 12738
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/values-pl/values-pl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 100,
+                        "endOffset": 2205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 12743,
+                    "endColumn": 102,
+                    "endOffset": 12841
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7453,
+                        "endColumn": 102,
+                        "endOffset": 7551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 12846,
+                    "endColumn": 73,
+                    "endOffset": 12915
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 7938,
+                        "endColumn": 73,
+                        "endOffset": 8007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 12920,
+                    "endColumn": 38,
+                    "endOffset": 12954
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6874,
+                        "endColumn": 38,
+                        "endOffset": 6908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 12959,
+                    "endColumn": 45,
+                    "endOffset": 13000
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2789,
+                        "endColumn": 45,
+                        "endOffset": 2830
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 13005,
+                    "endColumn": 64,
+                    "endOffset": 13065
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1128,
+                        "endColumn": 64,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 13070,
+                    "endColumn": 71,
+                    "endOffset": 13137
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3148,
+                        "endColumn": 71,
+                        "endOffset": 3215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 13142,
+                    "endColumn": 64,
+                    "endOffset": 13202
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7619,
+                        "endColumn": 64,
+                        "endOffset": 7679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 13207,
+                    "endColumn": 62,
+                    "endOffset": 13265
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7556,
+                        "endColumn": 62,
+                        "endOffset": 7614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 13270,
+                    "endColumn": 95,
+                    "endOffset": 13361
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 971,
+                        "endColumn": 95,
+                        "endOffset": 1062
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 13366,
+                    "endColumn": 95,
+                    "endOffset": 13457
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 95,
+                        "endOffset": 966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 13462,
+                    "endColumn": 50,
+                    "endOffset": 13508
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6391,
+                        "endColumn": 50,
+                        "endOffset": 6437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 13513,
+                    "endColumn": 58,
+                    "endOffset": 13567
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6494,
+                        "endColumn": 58,
+                        "endOffset": 6548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 13572,
+                    "endColumn": 39,
+                    "endOffset": 13607
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6794,
+                        "endColumn": 39,
+                        "endOffset": 6829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 13612,
+                    "endColumn": 141,
+                    "endOffset": 13749
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3850,
+                        "endColumn": 141,
+                        "endOffset": 3987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 13754,
+                    "endColumn": 38,
+                    "endOffset": 13788
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 7725,
+                        "endColumn": 38,
+                        "endOffset": 7759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 13793,
+                    "endColumn": 59,
+                    "endOffset": 13848
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1068,
+                        "endColumn": 59,
+                        "endOffset": 1123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 13853,
+                    "endColumn": 66,
+                    "endOffset": 13915
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2658,
+                        "endColumn": 66,
+                        "endOffset": 2720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 13920,
+                    "endColumn": 54,
+                    "endOffset": 13970
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5452,
+                        "endColumn": 54,
+                        "endOffset": 5502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 13975,
+                    "endColumn": 64,
+                    "endOffset": 14035
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5507,
+                        "endColumn": 64,
+                        "endOffset": 5567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 14040,
+                    "endColumn": 71,
+                    "endOffset": 14107
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5850,
+                        "endColumn": 71,
+                        "endOffset": 5917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 14112,
+                    "endColumn": 106,
+                    "endOffset": 14214
+                },
+                "from": {
+                    "file": "/Users/ekrnfkdi/AndroidStudioProjects/NewPipe-BH/app/src/main/res/values-pl/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4451,
+                        "endColumn": 106,
+                        "endOffset": 4553
+                    }
+                }
+            }
+        ]
+    }
+]

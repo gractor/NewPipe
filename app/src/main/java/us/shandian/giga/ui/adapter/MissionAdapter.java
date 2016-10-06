@@ -54,7 +54,7 @@ public class MissionAdapter extends RecyclerView.Adapter<MissionAdapter.ViewHold
 	}
 
 	@Override
-	public MissionAdapter.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+	public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 		final ViewHolder h =  new ViewHolder(mInflater.inflate(mLayout, parent, false));
 		
 		h.menu.setOnClickListener(new View.OnClickListener() {
@@ -75,7 +75,7 @@ public class MissionAdapter extends RecyclerView.Adapter<MissionAdapter.ViewHold
 	}
 
 	@Override
-	public void onViewRecycled(MissionAdapter.ViewHolder h) {
+	public void onViewRecycled(ViewHolder h) {
 		super.onViewRecycled(h);
 		h.mission.removeListener(h.observer);
 		h.mission = null;
@@ -88,7 +88,7 @@ public class MissionAdapter extends RecyclerView.Adapter<MissionAdapter.ViewHold
 	}
 
 	@Override
-	public void onBindViewHolder(MissionAdapter.ViewHolder h, int pos) {
+	public void onBindViewHolder(ViewHolder h, int pos) {
 		DownloadMission ms = mManager.getMission(pos);
 		h.mission = ms;
 		h.position = pos;
